@@ -1,9 +1,9 @@
 {
-  "/platemap/-d59": {
+  "/-deb": {
     "component": "c4f5d8e4",
     "config": "5e9f5e1a"
   },
-  "/platemap/blog-382": {
+  "/blog-e84": {
     "component": "a6aa9e1f",
     "sidebar": "83ec589c",
     "items": [
@@ -17,24 +17,24 @@
         "content": "8e9f0a8a"
       }
     ],
-    "metadata": "1ca078b3"
+    "metadata": "b2b675dd"
   },
-  "/platemap/blog/hello-world-ea1": {
+  "/blog/hello-world-4b5": {
     "component": "ccc49370",
     "sidebar": "83ec589c",
     "content": "d610846f"
   },
-  "/platemap/blog/hola-459": {
+  "/blog/hola-1be": {
     "component": "ccc49370",
     "sidebar": "83ec589c",
     "content": "bdd709f1"
   },
-  "/platemap/blog/tags-f21": {
+  "/blog/tags-6dc": {
     "component": "01a85c17",
     "sidebar": "83ec589c",
-    "tags": "02f18e86"
+    "tags": "a7023ddc"
   },
-  "/platemap/blog/tags/docusaurus-0f1": {
+  "/blog/tags/docusaurus-8f0": {
     "component": "6875c492",
     "sidebar": "83ec589c",
     "items": [
@@ -48,9 +48,9 @@
         "content": "8e9f0a8a"
       }
     ],
-    "metadata": "71255c6e"
+    "metadata": "a80da1cf"
   },
-  "/platemap/blog/tags/facebook-2be": {
+  "/blog/tags/facebook-316": {
     "component": "6875c492",
     "sidebar": "83ec589c",
     "items": [
@@ -58,9 +58,9 @@
         "content": "af172acd"
       }
     ],
-    "metadata": "f62fe7c9"
+    "metadata": "031793e1"
   },
-  "/platemap/blog/tags/hello-03e": {
+  "/blog/tags/hello-3c5": {
     "component": "6875c492",
     "sidebar": "83ec589c",
     "items": [
@@ -71,9 +71,9 @@
         "content": "3570154c"
       }
     ],
-    "metadata": "d6a0e695"
+    "metadata": "30a24c52"
   },
-  "/platemap/blog/tags/hola-307": {
+  "/blog/tags/hola-81e": {
     "component": "6875c492",
     "sidebar": "83ec589c",
     "items": [
@@ -81,54 +81,54 @@
         "content": "8e9f0a8a"
       }
     ],
-    "metadata": "d44665ef"
+    "metadata": "e16015ca"
   },
-  "/platemap/blog/welcome-23a": {
+  "/blog/welcome-b3b": {
     "component": "ccc49370",
     "sidebar": "83ec589c",
     "content": "2868cdab"
   },
-  "/platemap/docs-5a0": {
+  "/docs-046": {
     "component": "1be78505",
     "versionMetadata": "935f2afb"
   },
-  "/platemap/docs/-2da": {
+  "/docs/-87d": {
     "component": "17896441",
     "content": "b2f90839"
   },
-  "/platemap/docs/creating_plates_1-1f1": {
+  "/docs/creating_plates_1-b9a": {
     "component": "17896441",
     "content": "7ce401b3"
   },
-  "/platemap/docs/doc2-6a3": {
+  "/docs/doc2-fd3": {
     "component": "17896441",
     "content": "df361e2b"
   },
-  "/platemap/docs/doc3-54f": {
+  "/docs/doc3-e02": {
     "component": "17896441",
     "content": "616665f6"
   },
-  "/platemap/docs/installation-39d": {
+  "/docs/installation-b2a": {
     "component": "17896441",
     "content": "3b8c55ea"
   },
-  "/platemap/docs/mdx-b4b": {
+  "/docs/mdx-955": {
     "component": "17896441",
     "content": "ce3e42ad"
   },
-  "/platemap/docs/reference/platemap/plate-c65": {
+  "/docs/reference/platemap/plate-7e5": {
     "component": "17896441",
     "content": "38fe8561"
   },
-  "/platemap/docs/reference/platemap/PlateUtils/add_volume-f23": {
+  "/docs/reference/platemap/PlateUtils/add_volume-26e": {
     "component": "17896441",
     "content": "30bf13aa"
   },
-  "/platemap/docs/reference/platemap/PlateUtils/remove_volume-735": {
+  "/docs/reference/platemap/PlateUtils/remove_volume-759": {
     "component": "17896441",
     "content": "a513ac93"
   },
-  "/platemap/docs/reference/platemap/PlateUtils/transfer-86d": {
+  "/docs/reference/platemap/PlateUtils/transfer-854": {
     "component": "17896441",
     "content": "db957cfe"
   }

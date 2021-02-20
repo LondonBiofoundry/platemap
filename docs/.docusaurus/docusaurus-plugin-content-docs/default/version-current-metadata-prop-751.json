@@ -13,7 +13,7 @@
           {
             "type": "link",
             "label": "Getting Started",
-            "href": "/platemap/docs/installation"
+            "href": "/docs/installation"
           }
         ]
       },
@@ -25,7 +25,7 @@
           {
             "type": "link",
             "label": "creating_plates_1",
-            "href": "/platemap/docs/creating_plates_1"
+            "href": "/docs/creating_plates_1"
           }
         ]
       },
@@ -40,7 +40,7 @@
               {
                 "type": "link",
                 "label": "plate",
-                "href": "/platemap/docs/reference/platemap/plate"
+                "href": "/docs/reference/platemap/plate"
               },
               {
                 "collapsed": true,
@@ -48,17 +48,17 @@
                   {
                     "type": "link",
                     "label": "remove_volume",
-                    "href": "/platemap/docs/reference/platemap/PlateUtils/remove_volume"
+                    "href": "/docs/reference/platemap/PlateUtils/remove_volume"
                   },
                   {
                     "type": "link",
                     "label": "add_volume",
-                    "href": "/platemap/docs/reference/platemap/PlateUtils/add_volume"
+                    "href": "/docs/reference/platemap/PlateUtils/add_volume"
                   },
                   {
                     "type": "link",
                     "label": "transfer",
-                    "href": "/platemap/docs/reference/platemap/PlateUtils/transfer"
+                    "href": "/docs/reference/platemap/PlateUtils/transfer"
                   }
                 ],
                 "label": "platemap.PlateUtils",
@@ -78,17 +78,17 @@
           {
             "type": "link",
             "label": "Style Guide",
-            "href": "/platemap/docs/"
+            "href": "/docs/"
           },
           {
             "type": "link",
             "label": "Document Number 2",
-            "href": "/platemap/docs/doc2"
+            "href": "/docs/doc2"
           },
           {
             "type": "link",
             "label": "This is Document Number 3",
-            "href": "/platemap/docs/doc3"
+            "href": "/docs/doc3"
           }
         ]
       },
@@ -100,22 +100,22 @@
           {
             "type": "link",
             "label": "Powered by MDX",
-            "href": "/platemap/docs/mdx"
+            "href": "/docs/mdx"
           }
         ]
       }
     ]
   },
   "permalinkToSidebar": {
-    "/platemap/docs/creating_plates_1": "someSidebar",
-    "/platemap/docs/": "someSidebar",
-    "/platemap/docs/doc2": "someSidebar",
-    "/platemap/docs/doc3": "someSidebar",
-    "/platemap/docs/installation": "someSidebar",
-    "/platemap/docs/mdx": "someSidebar",
-    "/platemap/docs/reference/platemap/plate": "someSidebar",
-    "/platemap/docs/reference/platemap/PlateUtils/add_volume": "someSidebar",
-    "/platemap/docs/reference/platemap/PlateUtils/remove_volume": "someSidebar",
-    "/platemap/docs/reference/platemap/PlateUtils/transfer": "someSidebar"
+    "/docs/creating_plates_1": "someSidebar",
+    "/docs/": "someSidebar",
+    "/docs/doc2": "someSidebar",
+    "/docs/doc3": "someSidebar",
+    "/docs/installation": "someSidebar",
+    "/docs/mdx": "someSidebar",
+    "/docs/reference/platemap/plate": "someSidebar",
+    "/docs/reference/platemap/PlateUtils/add_volume": "someSidebar",
+    "/docs/reference/platemap/PlateUtils/remove_volume": "someSidebar",
+    "/docs/reference/platemap/PlateUtils/transfer": "someSidebar"
   }
 }

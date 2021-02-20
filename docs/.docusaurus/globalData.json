@@ -1,63 +1,63 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/platemap/docs",
+      "path": "/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/platemap/docs",
+          "path": "/docs",
           "mainDocId": "doc1",
           "docs": [
             {
               "id": "creating_plates_1",
-              "path": "/platemap/docs/creating_plates_1",
+              "path": "/docs/creating_plates_1",
               "sidebar": "someSidebar"
             },
             {
               "id": "doc1",
-              "path": "/platemap/docs/",
+              "path": "/docs/",
               "sidebar": "someSidebar"
             },
             {
               "id": "doc2",
-              "path": "/platemap/docs/doc2",
+              "path": "/docs/doc2",
               "sidebar": "someSidebar"
             },
             {
               "id": "doc3",
-              "path": "/platemap/docs/doc3",
+              "path": "/docs/doc3",
               "sidebar": "someSidebar"
             },
             {
               "id": "installation",
-              "path": "/platemap/docs/installation",
+              "path": "/docs/installation",
               "sidebar": "someSidebar"
             },
             {
               "id": "mdx",
-              "path": "/platemap/docs/mdx",
+              "path": "/docs/mdx",
               "sidebar": "someSidebar"
             },
             {
               "id": "reference/platemap/plate",
-              "path": "/platemap/docs/reference/platemap/plate",
+              "path": "/docs/reference/platemap/plate",
               "sidebar": "someSidebar"
             },
             {
               "id": "reference/platemap/PlateUtils/add_volume",
-              "path": "/platemap/docs/reference/platemap/PlateUtils/add_volume",
+              "path": "/docs/reference/platemap/PlateUtils/add_volume",
               "sidebar": "someSidebar"
             },
             {
               "id": "reference/platemap/PlateUtils/remove_volume",
-              "path": "/platemap/docs/reference/platemap/PlateUtils/remove_volume",
+              "path": "/docs/reference/platemap/PlateUtils/remove_volume",
               "sidebar": "someSidebar"
             },
             {
               "id": "reference/platemap/PlateUtils/transfer",
-              "path": "/platemap/docs/reference/platemap/PlateUtils/transfer",
+              "path": "/docs/reference/platemap/PlateUtils/transfer",
               "sidebar": "someSidebar"
             }
           ]
