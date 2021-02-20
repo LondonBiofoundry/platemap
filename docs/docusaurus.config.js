@@ -2,7 +2,7 @@ module.exports = {
   title: "Platemap",
   tagline: "A simple and small class to handle microplates / micro titreplates",
   url: "https://Benedict-Carling.github.io",
-  baseUrl: "/platemap/",
+  baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/platemap.ico",
