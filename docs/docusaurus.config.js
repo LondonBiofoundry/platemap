@@ -36,17 +36,17 @@ module.exports = {
         },
         //{ to: "blog", label: "Blog", position: "left" },
         {
-          href: "https://github.com/facebook/docusaurus",
+          href: "https://pypi.org/project/platemap/",
           label: "PyPi",
           position: "left",
         },
         {
-          href: "https://github.com/facebook/docusaurus",
+          href: "https://www.londonbiofoundry.org/",
           label: "London Biofoundry",
           position: "left",
         },
         {
-          href: "https://github.com/facebook/docusaurus",
+          href: "https://github.com/Benedict-Carling/platemap",
           label: "GitHub",
           position: "right",
         },
