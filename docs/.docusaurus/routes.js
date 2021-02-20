@@ -8,48 +8,83 @@ export default [
   exact: true,
 },
 {
+  path: '/platemap/__docusaurus/debug',
+  component: ComponentCreator('/platemap/__docusaurus/debug','245'),
+  exact: true,
+},
+{
+  path: '/platemap/__docusaurus/debug/config',
+  component: ComponentCreator('/platemap/__docusaurus/debug/config','a3e'),
+  exact: true,
+},
+{
+  path: '/platemap/__docusaurus/debug/content',
+  component: ComponentCreator('/platemap/__docusaurus/debug/content','5f6'),
+  exact: true,
+},
+{
+  path: '/platemap/__docusaurus/debug/globalData',
+  component: ComponentCreator('/platemap/__docusaurus/debug/globalData','9f2'),
+  exact: true,
+},
+{
+  path: '/platemap/__docusaurus/debug/metadata',
+  component: ComponentCreator('/platemap/__docusaurus/debug/metadata','0c2'),
+  exact: true,
+},
+{
+  path: '/platemap/__docusaurus/debug/registry',
+  component: ComponentCreator('/platemap/__docusaurus/debug/registry','f13'),
+  exact: true,
+},
+{
+  path: '/platemap/__docusaurus/debug/routes',
+  component: ComponentCreator('/platemap/__docusaurus/debug/routes','62c'),
+  exact: true,
+},
+{
   path: '/platemap/blog',
-  component: ComponentCreator('/platemap/blog','d52'),
+  component: ComponentCreator('/platemap/blog','382'),
   exact: true,
 },
 {
   path: '/platemap/blog/hello-world',
-  component: ComponentCreator('/platemap/blog/hello-world','7ce'),
+  component: ComponentCreator('/platemap/blog/hello-world','ea1'),
   exact: true,
 },
 {
   path: '/platemap/blog/hola',
-  component: ComponentCreator('/platemap/blog/hola','9d2'),
+  component: ComponentCreator('/platemap/blog/hola','459'),
   exact: true,
 },
 {
   path: '/platemap/blog/tags',
-  component: ComponentCreator('/platemap/blog/tags','2e3'),
+  component: ComponentCreator('/platemap/blog/tags','f21'),
   exact: true,
 },
 {
   path: '/platemap/blog/tags/docusaurus',
-  component: ComponentCreator('/platemap/blog/tags/docusaurus','b86'),
+  component: ComponentCreator('/platemap/blog/tags/docusaurus','0f1'),
   exact: true,
 },
 {
   path: '/platemap/blog/tags/facebook',
-  component: ComponentCreator('/platemap/blog/tags/facebook','85f'),
+  component: ComponentCreator('/platemap/blog/tags/facebook','2be'),
   exact: true,
 },
 {
   path: '/platemap/blog/tags/hello',
-  component: ComponentCreator('/platemap/blog/tags/hello','76a'),
+  component: ComponentCreator('/platemap/blog/tags/hello','03e'),
   exact: true,
 },
 {
   path: '/platemap/blog/tags/hola',
-  component: ComponentCreator('/platemap/blog/tags/hola','1d8'),
+  component: ComponentCreator('/platemap/blog/tags/hola','307'),
   exact: true,
 },
 {
   path: '/platemap/blog/welcome',
-  component: ComponentCreator('/platemap/blog/welcome','85b'),
+  component: ComponentCreator('/platemap/blog/welcome','23a'),
   exact: true,
 },
 {

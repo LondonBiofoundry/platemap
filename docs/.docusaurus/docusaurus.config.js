@@ -114,7 +114,7 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "/Users/benedictcarling/Documents/programming/platemap/docsource/sidebars.js",
+          "sidebarPath": "/Users/benedictcarling/Documents/programming/platemap/docs/sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/"
         },
         "blog": {
@@ -122,7 +122,7 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/"
         },
         "theme": {
-          "customCss": "/Users/benedictcarling/Documents/programming/platemap/docsource/src/css/custom.css"
+          "customCss": "/Users/benedictcarling/Documents/programming/platemap/docs/src/css/custom.css"
         }
       }
     ]
