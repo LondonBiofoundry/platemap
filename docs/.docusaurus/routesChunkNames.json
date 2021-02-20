@@ -1,0 +1,135 @@
+{
+  "/platemap/-d59": {
+    "component": "c4f5d8e4",
+    "config": "5e9f5e1a"
+  },
+  "/platemap/blog-d52": {
+    "component": "a6aa9e1f",
+    "sidebar": "62611fea",
+    "items": [
+      {
+        "content": "af172acd"
+      },
+      {
+        "content": "3570154c"
+      },
+      {
+        "content": "8e9f0a8a"
+      }
+    ],
+    "metadata": "1ca078b3"
+  },
+  "/platemap/blog/hello-world-7ce": {
+    "component": "ccc49370",
+    "sidebar": "62611fea",
+    "content": "d610846f"
+  },
+  "/platemap/blog/hola-9d2": {
+    "component": "ccc49370",
+    "sidebar": "62611fea",
+    "content": "bdd709f1"
+  },
+  "/platemap/blog/tags-2e3": {
+    "component": "01a85c17",
+    "sidebar": "62611fea",
+    "tags": "02f18e86"
+  },
+  "/platemap/blog/tags/docusaurus-b86": {
+    "component": "6875c492",
+    "sidebar": "62611fea",
+    "items": [
+      {
+        "content": "af172acd"
+      },
+      {
+        "content": "3570154c"
+      },
+      {
+        "content": "8e9f0a8a"
+      }
+    ],
+    "metadata": "71255c6e"
+  },
+  "/platemap/blog/tags/facebook-85f": {
+    "component": "6875c492",
+    "sidebar": "62611fea",
+    "items": [
+      {
+        "content": "af172acd"
+      }
+    ],
+    "metadata": "f62fe7c9"
+  },
+  "/platemap/blog/tags/hello-76a": {
+    "component": "6875c492",
+    "sidebar": "62611fea",
+    "items": [
+      {
+        "content": "af172acd"
+      },
+      {
+        "content": "3570154c"
+      }
+    ],
+    "metadata": "d6a0e695"
+  },
+  "/platemap/blog/tags/hola-1d8": {
+    "component": "6875c492",
+    "sidebar": "62611fea",
+    "items": [
+      {
+        "content": "8e9f0a8a"
+      }
+    ],
+    "metadata": "d44665ef"
+  },
+  "/platemap/blog/welcome-85b": {
+    "component": "ccc49370",
+    "sidebar": "62611fea",
+    "content": "2868cdab"
+  },
+  "/platemap/docs-5a0": {
+    "component": "1be78505",
+    "versionMetadata": "935f2afb"
+  },
+  "/platemap/docs/-2da": {
+    "component": "17896441",
+    "content": "b2f90839"
+  },
+  "/platemap/docs/creating_plates_1-1f1": {
+    "component": "17896441",
+    "content": "7ce401b3"
+  },
+  "/platemap/docs/doc2-6a3": {
+    "component": "17896441",
+    "content": "df361e2b"
+  },
+  "/platemap/docs/doc3-54f": {
+    "component": "17896441",
+    "content": "616665f6"
+  },
+  "/platemap/docs/installation-39d": {
+    "component": "17896441",
+    "content": "3b8c55ea"
+  },
+  "/platemap/docs/mdx-b4b": {
+    "component": "17896441",
+    "content": "ce3e42ad"
+  },
+  "/platemap/docs/reference/platemap/plate-c65": {
+    "component": "17896441",
+    "content": "38fe8561"
+  },
+  "/platemap/docs/reference/platemap/PlateUtils/add_volume-f23": {
+    "component": "17896441",
+    "content": "30bf13aa"
+  },
+  "/platemap/docs/reference/platemap/PlateUtils/remove_volume-735": {
+    "component": "17896441",
+    "content": "a513ac93"
+  },
+  "/platemap/docs/reference/platemap/PlateUtils/transfer-86d": {
+    "component": "17896441",
+    "content": "db957cfe"
+  }
+}

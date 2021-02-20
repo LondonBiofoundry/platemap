@@ -1,0 +1,17 @@
+{
+  "title": "Recent posts",
+  "items": [
+    {
+      "title": "Welcome",
+      "permalink": "/platemap/blog/welcome"
+    },
+    {
+      "title": "Hello",
+      "permalink": "/platemap/blog/hello-world"
+    },
+    {
+      "title": "Hola",
+      "permalink": "/platemap/blog/hola"
+    }
+  ]
+}

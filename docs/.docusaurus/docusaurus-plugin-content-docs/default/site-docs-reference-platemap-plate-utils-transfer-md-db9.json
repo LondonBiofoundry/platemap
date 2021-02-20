@@ -1,0 +1,22 @@
+{
+  "unversionedId": "reference/platemap/PlateUtils/transfer",
+  "id": "reference/platemap/PlateUtils/transfer",
+  "isDocsHomePage": false,
+  "title": "platemap.PlateUtils.transfer",
+  "description": "transfer",
+  "source": "@site/docs/reference/platemap/PlateUtils/transfer.md",
+  "slug": "/reference/platemap/PlateUtils/transfer",
+  "permalink": "/platemap/docs/reference/platemap/PlateUtils/transfer",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/reference/platemap/PlateUtils/transfer.md",
+  "version": "current",
+  "sidebar_label": "transfer",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "platemap.PlateUtils.add_volume",
+    "permalink": "/platemap/docs/reference/platemap/PlateUtils/add_volume"
+  },
+  "next": {
+    "title": "Style Guide",
+    "permalink": "/platemap/docs/"
+  }
+}

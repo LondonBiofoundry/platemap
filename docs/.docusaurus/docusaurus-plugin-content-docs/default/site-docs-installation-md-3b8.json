@@ -1,0 +1,17 @@
+{
+  "unversionedId": "installation",
+  "id": "installation",
+  "isDocsHomePage": false,
+  "title": "Getting Started",
+  "description": "Install platemap",
+  "source": "@site/docs/installation.md",
+  "slug": "/installation",
+  "permalink": "/platemap/docs/installation",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/installation.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "next": {
+    "title": "creating_plates_1",
+    "permalink": "/platemap/docs/creating_plates_1"
+  }
+}
