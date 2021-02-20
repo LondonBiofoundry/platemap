@@ -1,7 +1,7 @@
 export default {
   "title": "My Site",
   "tagline": "The tagline of my site",
-  "url": "https://Benedict-Carling.github.io",
+  "url": "https://benedict-carling.github.io",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
