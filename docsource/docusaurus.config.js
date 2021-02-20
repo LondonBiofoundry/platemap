@@ -1,13 +1,13 @@
 module.exports = {
   title: "My Site",
   tagline: "The tagline of my site",
-  url: "https://your-docusaurus-test-site.com",
-  baseUrl: "/",
+  url: "https://Benedict-Carling.github.io",
+  baseUrl: "/platemap/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
-  organizationName: "facebook", // Usually your GitHub org/user name.
-  projectName: "docusaurus", // Usually your repo name.
+  organizationName: "Benedict-Carling", // Usually your GitHub org/user name.
+  projectName: "platemap", // Usually your repo name.
   themeConfig: {
     colorMode: {
       // "light" | "dark"
