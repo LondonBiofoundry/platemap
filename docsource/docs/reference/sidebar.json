@@ -1,0 +1,16 @@
+{
+  "items": [
+    "reference/platemap/plate",
+    {
+      "items": [
+        "reference/platemap/PlateUtils/remove_volume",
+        "reference/platemap/PlateUtils/add_volume",
+        "reference/platemap/PlateUtils/transfer"
+      ],
+      "label": "platemap.PlateUtils",
+      "type": "category"
+    }
+  ],
+  "label": "platemap",
+  "type": "category"
+}
