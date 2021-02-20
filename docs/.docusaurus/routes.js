@@ -8,41 +8,6 @@ export default [
   exact: true,
 },
 {
-  path: '/platemap/__docusaurus/debug',
-  component: ComponentCreator('/platemap/__docusaurus/debug','245'),
-  exact: true,
-},
-{
-  path: '/platemap/__docusaurus/debug/config',
-  component: ComponentCreator('/platemap/__docusaurus/debug/config','a3e'),
-  exact: true,
-},
-{
-  path: '/platemap/__docusaurus/debug/content',
-  component: ComponentCreator('/platemap/__docusaurus/debug/content','5f6'),
-  exact: true,
-},
-{
-  path: '/platemap/__docusaurus/debug/globalData',
-  component: ComponentCreator('/platemap/__docusaurus/debug/globalData','9f2'),
-  exact: true,
-},
-{
-  path: '/platemap/__docusaurus/debug/metadata',
-  component: ComponentCreator('/platemap/__docusaurus/debug/metadata','0c2'),
-  exact: true,
-},
-{
-  path: '/platemap/__docusaurus/debug/registry',
-  component: ComponentCreator('/platemap/__docusaurus/debug/registry','f13'),
-  exact: true,
-},
-{
-  path: '/platemap/__docusaurus/debug/routes',
-  component: ComponentCreator('/platemap/__docusaurus/debug/routes','62c'),
-  exact: true,
-},
-{
   path: '/platemap/blog',
   component: ComponentCreator('/platemap/blog','382'),
   exact: true,
