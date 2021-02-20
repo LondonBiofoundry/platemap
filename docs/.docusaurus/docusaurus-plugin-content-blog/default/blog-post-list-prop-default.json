@@ -3,15 +3,15 @@
   "items": [
     {
       "title": "Welcome",
-      "permalink": "/blog/welcome"
+      "permalink": "/platemap/blog/welcome"
     },
     {
       "title": "Hello",
-      "permalink": "/blog/hello-world"
+      "permalink": "/platemap/blog/hello-world"
     },
     {
       "title": "Hola",
-      "permalink": "/blog/hola"
+      "permalink": "/platemap/blog/hola"
     }
   ]
 }

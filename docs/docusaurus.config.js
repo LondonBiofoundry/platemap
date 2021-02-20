@@ -1,11 +1,11 @@
 module.exports = {
-  title: "My Site",
-  tagline: "The tagline of my site",
-  url: "https://benedict-carling.github.io",
-  baseUrl: "/",
+  title: "Platemap",
+  tagline: "A simple and small class to handle microplates / micro titreplates",
+  url: "https://Benedict-Carling.github.io",
+  baseUrl: "/platemap/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
-  favicon: "img/favicon.ico",
+  favicon: "img/platemap.ico",
   organizationName: "Benedict-Carling", // Usually your GitHub org/user name.
   projectName: "platemap", // Usually your repo name.
   themeConfig: {

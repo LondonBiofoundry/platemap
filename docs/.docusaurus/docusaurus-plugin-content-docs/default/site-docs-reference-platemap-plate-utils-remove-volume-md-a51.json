@@ -6,17 +6,17 @@
   "description": "remove\\_volume",
   "source": "@site/docs/reference/platemap/PlateUtils/remove_volume.md",
   "slug": "/reference/platemap/PlateUtils/remove_volume",
-  "permalink": "/docs/reference/platemap/PlateUtils/remove_volume",
+  "permalink": "/platemap/docs/reference/platemap/PlateUtils/remove_volume",
   "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/reference/platemap/PlateUtils/remove_volume.md",
   "version": "current",
   "sidebar_label": "remove_volume",
   "sidebar": "someSidebar",
   "previous": {
     "title": "platemap.plate",
-    "permalink": "/docs/reference/platemap/plate"
+    "permalink": "/platemap/docs/reference/platemap/plate"
   },
   "next": {
     "title": "platemap.PlateUtils.add_volume",
-    "permalink": "/docs/reference/platemap/PlateUtils/add_volume"
+    "permalink": "/platemap/docs/reference/platemap/PlateUtils/add_volume"
   }
 }

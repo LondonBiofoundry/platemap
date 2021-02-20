@@ -1,5 +1,5 @@
 {
-  "permalink": "/blog/hola",
+  "permalink": "/platemap/blog/hola",
   "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/blog/2019-05-28-hola.md",
   "source": "@site/blog/2019-05-28-hola.md",
   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
@@ -7,11 +7,11 @@
   "tags": [
     {
       "label": "hola",
-      "permalink": "/blog/tags/hola"
+      "permalink": "/platemap/blog/tags/hola"
     },
     {
       "label": "docusaurus",
-      "permalink": "/blog/tags/docusaurus"
+      "permalink": "/platemap/blog/tags/docusaurus"
     }
   ],
   "title": "Hola",
@@ -19,6 +19,6 @@
   "truncated": false,
   "prevItem": {
     "title": "Hello",
-    "permalink": "/blog/hello-world"
+    "permalink": "/platemap/blog/hello-world"
   }
 }

@@ -6,17 +6,17 @@
   "description": "You can write content using GitHub-flavored Markdown syntax.",
   "source": "@site/docs/doc1.md",
   "slug": "/",
-  "permalink": "/docs/",
+  "permalink": "/platemap/docs/",
   "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/doc1.md",
   "version": "current",
   "sidebar_label": "Style Guide",
   "sidebar": "someSidebar",
   "previous": {
     "title": "platemap.PlateUtils.transfer",
-    "permalink": "/docs/reference/platemap/PlateUtils/transfer"
+    "permalink": "/platemap/docs/reference/platemap/PlateUtils/transfer"
   },
   "next": {
     "title": "Document Number 2",
-    "permalink": "/docs/doc2"
+    "permalink": "/platemap/docs/doc2"
   }
 }

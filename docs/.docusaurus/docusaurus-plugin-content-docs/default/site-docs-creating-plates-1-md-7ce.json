@@ -6,16 +6,16 @@
   "description": "",
   "source": "@site/docs/creating_plates_1.md",
   "slug": "/creating_plates_1",
-  "permalink": "/docs/creating_plates_1",
+  "permalink": "/platemap/docs/creating_plates_1",
   "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/creating_plates_1.md",
   "version": "current",
   "sidebar": "someSidebar",
   "previous": {
     "title": "Getting Started",
-    "permalink": "/docs/installation"
+    "permalink": "/platemap/docs/installation"
   },
   "next": {
     "title": "platemap.plate",
-    "permalink": "/docs/reference/platemap/plate"
+    "permalink": "/platemap/docs/reference/platemap/plate"
   }
 }
