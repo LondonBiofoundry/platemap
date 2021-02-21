@@ -2,7 +2,7 @@ export default {
   "title": "Platemap",
   "tagline": "A simple and small class to handle microplates / micro titreplates",
   "url": "https://Benedict-Carling.github.io",
-  "baseUrl": "/platemap/",
+  "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/platemap.ico",
@@ -34,17 +34,12 @@ export default {
           "position": "left"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
+          "href": "https://pypi.org/project/platemap/",
           "label": "PyPi",
           "position": "left"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
-          "label": "London Biofoundry",
-          "position": "left"
-        },
-        {
-          "href": "https://github.com/facebook/docusaurus",
+          "href": "https://github.com/Benedict-Carling/platemap",
           "label": "GitHub",
           "position": "right"
         }
@@ -53,52 +48,8 @@ export default {
     },
     "footer": {
       "style": "dark",
-      "links": [
-        {
-          "title": "Docs",
-          "items": [
-            {
-              "label": "Style Guide",
-              "to": "docs/"
-            },
-            {
-              "label": "Second Doc",
-              "to": "docs/doc2/"
-            }
-          ]
-        },
-        {
-          "title": "Community",
-          "items": [
-            {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
-            },
-            {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
-            },
-            {
-              "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
-            }
-          ]
-        },
-        {
-          "title": "More",
-          "items": [
-            {
-              "label": "Blog",
-              "to": "blog"
-            },
-            {
-              "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
-            }
-          ]
-        }
-      ],
-      "copyright": "Copyright © 2021 Platemap, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2021 Platemap, Inc. Built with Docusaurus.",
+      "links": []
     },
     "docs": {
       "versionPersistence": "localStorage"

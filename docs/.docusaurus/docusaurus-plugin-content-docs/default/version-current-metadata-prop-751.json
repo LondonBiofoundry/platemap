@@ -13,7 +13,7 @@
           {
             "type": "link",
             "label": "Getting Started",
-            "href": "/platemap/docs/installation"
+            "href": "/docs/"
           }
         ]
       },
@@ -24,8 +24,23 @@
         "items": [
           {
             "type": "link",
-            "label": "creating_plates_1",
-            "href": "/platemap/docs/creating_plates_1"
+            "label": "Creating Plates",
+            "href": "/docs/creating_plates_1"
+          },
+          {
+            "type": "link",
+            "label": "Using Plate Attributes",
+            "href": "/docs/plate_attributes"
+          },
+          {
+            "type": "link",
+            "label": "Add Volume",
+            "href": "/docs/add_volume"
+          },
+          {
+            "type": "link",
+            "label": "Transfer Volume",
+            "href": "/docs/transfer_volume"
           }
         ]
       },
@@ -40,7 +55,7 @@
               {
                 "type": "link",
                 "label": "plate",
-                "href": "/platemap/docs/reference/platemap/plate"
+                "href": "/docs/reference/platemap/plate"
               },
               {
                 "collapsed": true,
@@ -48,17 +63,17 @@
                   {
                     "type": "link",
                     "label": "remove_volume",
-                    "href": "/platemap/docs/reference/platemap/PlateUtils/remove_volume"
+                    "href": "/docs/reference/platemap/PlateUtils/remove_volume"
                   },
                   {
                     "type": "link",
                     "label": "add_volume",
-                    "href": "/platemap/docs/reference/platemap/PlateUtils/add_volume"
+                    "href": "/docs/reference/platemap/PlateUtils/add_volume"
                   },
                   {
                     "type": "link",
                     "label": "transfer",
-                    "href": "/platemap/docs/reference/platemap/PlateUtils/transfer"
+                    "href": "/docs/reference/platemap/PlateUtils/transfer"
                   }
                 ],
                 "label": "platemap.PlateUtils",
@@ -73,49 +88,27 @@
       {
         "collapsed": true,
         "type": "category",
-        "label": "Docusaurus",
+        "label": "Contributing",
         "items": [
           {
             "type": "link",
-            "label": "Style Guide",
-            "href": "/platemap/docs/"
-          },
-          {
-            "type": "link",
-            "label": "Document Number 2",
-            "href": "/platemap/docs/doc2"
-          },
-          {
-            "type": "link",
-            "label": "This is Document Number 3",
-            "href": "/platemap/docs/doc3"
-          }
-        ]
-      },
-      {
-        "collapsed": true,
-        "type": "category",
-        "label": "Features",
-        "items": [
-          {
-            "type": "link",
-            "label": "Powered by MDX",
-            "href": "/platemap/docs/mdx"
+            "label": "Contributing Guidelines",
+            "href": "/docs/contributing_guideline"
           }
         ]
       }
     ]
   },
   "permalinkToSidebar": {
-    "/platemap/docs/creating_plates_1": "someSidebar",
-    "/platemap/docs/": "someSidebar",
-    "/platemap/docs/doc2": "someSidebar",
-    "/platemap/docs/doc3": "someSidebar",
-    "/platemap/docs/installation": "someSidebar",
-    "/platemap/docs/mdx": "someSidebar",
-    "/platemap/docs/reference/platemap/plate": "someSidebar",
-    "/platemap/docs/reference/platemap/PlateUtils/add_volume": "someSidebar",
-    "/platemap/docs/reference/platemap/PlateUtils/remove_volume": "someSidebar",
-    "/platemap/docs/reference/platemap/PlateUtils/transfer": "someSidebar"
+    "/docs/add_volume": "someSidebar",
+    "/docs/contributing_guideline": "someSidebar",
+    "/docs/creating_plates_1": "someSidebar",
+    "/docs/": "someSidebar",
+    "/docs/plate_attributes": "someSidebar",
+    "/docs/reference/platemap/plate": "someSidebar",
+    "/docs/reference/platemap/PlateUtils/add_volume": "someSidebar",
+    "/docs/reference/platemap/PlateUtils/remove_volume": "someSidebar",
+    "/docs/reference/platemap/PlateUtils/transfer": "someSidebar",
+    "/docs/transfer_volume": "someSidebar"
   }
 }

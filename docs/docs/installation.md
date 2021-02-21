@@ -1,6 +1,7 @@
 ---
 id: installation
 title: Getting Started
+slug: /
 ---
 
 ## Install platemap

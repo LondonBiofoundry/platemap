@@ -6,17 +6,17 @@
   "description": "Plate Objects",
   "source": "@site/docs/reference/platemap/plate.md",
   "slug": "/reference/platemap/plate",
-  "permalink": "/platemap/docs/reference/platemap/plate",
+  "permalink": "/docs/reference/platemap/plate",
   "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/reference/platemap/plate.md",
   "version": "current",
   "sidebar_label": "plate",
   "sidebar": "someSidebar",
   "previous": {
-    "title": "creating_plates_1",
-    "permalink": "/platemap/docs/creating_plates_1"
+    "title": "Transfer Volume",
+    "permalink": "/docs/transfer_volume"
   },
   "next": {
     "title": "platemap.PlateUtils.remove_volume",
-    "permalink": "/platemap/docs/reference/platemap/PlateUtils/remove_volume"
+    "permalink": "/docs/reference/platemap/PlateUtils/remove_volume"
   }
 }

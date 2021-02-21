@@ -1,63 +1,79 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/platemap/docs",
+      "path": "/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/platemap/docs",
-          "mainDocId": "doc1",
+          "path": "/docs",
+          "mainDocId": "installation",
           "docs": [
             {
-              "id": "creating_plates_1",
-              "path": "/platemap/docs/creating_plates_1",
+              "id": "add_volume",
+              "path": "/docs/add_volume",
               "sidebar": "someSidebar"
             },
             {
-              "id": "doc1",
-              "path": "/platemap/docs/",
+              "id": "contributing_guideline",
+              "path": "/docs/contributing_guideline",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "creating_plates_1",
+              "path": "/docs/creating_plates_1",
               "sidebar": "someSidebar"
             },
             {
               "id": "doc2",
-              "path": "/platemap/docs/doc2",
-              "sidebar": "someSidebar"
+              "path": "/docs/doc2"
             },
             {
               "id": "doc3",
-              "path": "/platemap/docs/doc3",
-              "sidebar": "someSidebar"
+              "path": "/docs/doc3"
             },
             {
               "id": "installation",
-              "path": "/platemap/docs/installation",
+              "path": "/docs/",
               "sidebar": "someSidebar"
             },
             {
               "id": "mdx",
-              "path": "/platemap/docs/mdx",
+              "path": "/docs/mdx"
+            },
+            {
+              "id": "plate_attributes",
+              "path": "/docs/plate_attributes",
               "sidebar": "someSidebar"
             },
             {
               "id": "reference/platemap/plate",
-              "path": "/platemap/docs/reference/platemap/plate",
+              "path": "/docs/reference/platemap/plate",
               "sidebar": "someSidebar"
             },
             {
               "id": "reference/platemap/PlateUtils/add_volume",
-              "path": "/platemap/docs/reference/platemap/PlateUtils/add_volume",
+              "path": "/docs/reference/platemap/PlateUtils/add_volume",
               "sidebar": "someSidebar"
             },
             {
               "id": "reference/platemap/PlateUtils/remove_volume",
-              "path": "/platemap/docs/reference/platemap/PlateUtils/remove_volume",
+              "path": "/docs/reference/platemap/PlateUtils/remove_volume",
               "sidebar": "someSidebar"
             },
             {
               "id": "reference/platemap/PlateUtils/transfer",
-              "path": "/platemap/docs/reference/platemap/PlateUtils/transfer",
+              "path": "/docs/reference/platemap/PlateUtils/transfer",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "style",
+              "path": "/docs/style"
+            },
+            {
+              "id": "transfer_volume",
+              "path": "/docs/transfer_volume",
               "sidebar": "someSidebar"
             }
           ]

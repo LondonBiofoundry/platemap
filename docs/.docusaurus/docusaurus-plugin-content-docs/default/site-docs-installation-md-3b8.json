@@ -5,13 +5,13 @@
   "title": "Getting Started",
   "description": "Install platemap",
   "source": "@site/docs/installation.md",
-  "slug": "/installation",
-  "permalink": "/platemap/docs/installation",
+  "slug": "/",
+  "permalink": "/docs/",
   "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/installation.md",
   "version": "current",
   "sidebar": "someSidebar",
   "next": {
-    "title": "creating_plates_1",
-    "permalink": "/platemap/docs/creating_plates_1"
+    "title": "Creating Plates",
+    "permalink": "/docs/creating_plates_1"
   }
 }
