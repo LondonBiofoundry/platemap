@@ -3,25 +3,26 @@ on: ["push", "pull_request"]
 name: Test Coveralls
 
 jobs:
-
   build:
-    name: Build
     runs-on: ubuntu-latest
+
     steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python 3.9
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pytest pytest-cov
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-    - uses: actions/checkout@v1
+      - name: create .coverage
+        run: |
+          pytest --cov=platemap
 
-    - name: Use Node.js 10.x
-      uses: actions/setup-node@v1
-      with:
-        node-version: 10.x
-
-    - name: create .coverage
-      run: |
-        pip install -r requirements.txt
-        pytest --cov=platemap
-
-    - name: Coveralls
-      uses: coverallsapp/github-action@master
-      with:
-        github-token: ${{ secrets.COVERALLS_KEY }}
+      - name: Coveralls
+        uses: coverallsapp/github-action@master
+        with:
+          github-token: ${{ secrets.COVERALLS_KEY }}
