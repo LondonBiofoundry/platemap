@@ -18,11 +18,12 @@ jobs:
           pip install pytest pytest-cov
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-      - name: create .coverage
-        run: |
-          pytest --cov=platemap
+      #- name: create .coverage
+      #  run: |
+      #    pytest --cov=platemap
 
       - name: Coveralls
-        uses: coverallsapp/github-action@master
-        with:
-          github-token: ${{ secrets.COVERALLS_KEY }}
+              env:
+                GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+              run: |
+                coveralls
