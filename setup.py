@@ -13,9 +13,7 @@ setuptools.setup(
     description="A package for working with plates",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    packages=setuptools.find_packages(
-        exclude=("tests","docsource")
-    ),
+    packages=setuptools.find_packages(exclude=("tests", "docsource")),
     include_package_data=True,
     classifiers=[
         "Intended Audience :: Science/Research",
