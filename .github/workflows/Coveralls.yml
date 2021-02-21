@@ -23,7 +23,7 @@ jobs:
       #    pytest --cov=platemap
 
       - name: Coveralls
-              env:
-                COVERALLS_REPO_TOKEN: ${{ secrets.COVERALLS_KEY }}
-              run: |
-                coveralls
+        env:
+          COVERALLS_REPO_TOKEN: ${{ secrets.COVERALLS_KEY }}
+        run: |
+          coveralls
