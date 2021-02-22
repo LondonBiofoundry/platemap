@@ -25,7 +25,6 @@ def remove_volume(
                 target_plate[target_well]["composition"][item]["volume"]
                 - volume_removed
             )
-            print(new_volume)
             target_plate.update_well_composition(target_well, new_volume, item)
         target_plate.set_well_volume(
             target_well,
