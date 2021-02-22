@@ -1,11 +1,12 @@
 from ..plate import Plate
 from .add_volume import add_volume
 import math
+from typing import Dict
 
 
 def assign_source_wells(
     plate: Plate,
-    input_dict: dict[str, float],
+    input_dict: Dict[str, float],
     fill_to: int = None,
     alternate_wells=False,
 ):
