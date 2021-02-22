@@ -12,7 +12,7 @@ class Composition_Item(TypedDict):
 class Contents(TypedDict):
     id: str
     total_volume: int
-    composition: dict[str, Composition_Item]
+    composition: Dict[str, Composition_Item]
 
 
 class Plate:
