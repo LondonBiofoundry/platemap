@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="platemap",
-    version="0.0.2b",
+    version="0.0.4",
     url="https://github.com/Benedict-Carling/platemap",
     author="Benedict Carling",
     author_email="benedict.carling18@imperial.ac.uk",
