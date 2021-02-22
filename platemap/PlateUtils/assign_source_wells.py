@@ -4,7 +4,10 @@ import math
 
 
 def assign_source_wells(
-    plate: Plate, input_dict: dict[str, float], fill_to: int = None, alternate_wells = False
+    plate: Plate,
+    input_dict: dict[str, float],
+    fill_to: int = None,
+    alternate_wells=False,
 ):
     useable_liquid_per_well = (
         fill_to - plate.deadspace if fill_to else plate.well_volume - plate.deadspace
@@ -21,7 +24,7 @@ def assign_source_wells(
                 )
             )
         ):
-            if !alternate_wells:
+            if not alternate_wells:
                 plate.set_well_id(plate.wells[well_index], item)
                 add_volume(
                     plate,
@@ -30,10 +33,10 @@ def assign_source_wells(
                     item,
                 )
             else:
-                plate.set_well_id(plate.wells[well_index*2], item)
+                plate.set_well_id(plate.wells[well_index * 2], item)
                 add_volume(
                     plate,
-                    plate.wells[well_index*2],
+                    plate.wells[well_index * 2],
                     fill_to if fill_to else plate.well_volume,
                     item,
                 )
