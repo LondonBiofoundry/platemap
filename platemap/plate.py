@@ -1,7 +1,10 @@
 import uuid
 import string
-from typing import TypedDict, List, Dict
 import math
+if sys.version_info[0] == 3 and sys.version_info[1] >= 8:
+    from typing import TypedDict, List, Dict
+else:
+    from typing_extensions import TypedDict, List, Dict
 
 
 class Composition_Item(TypedDict):
