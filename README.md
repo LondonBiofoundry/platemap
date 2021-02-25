@@ -33,3 +33,6 @@ cd platemap
 ```bash
 python setup.py install
 ```
+
+## Description
+Created at the London Biofoundry by [Benedict Carling](https://github.com/Benedict-Carling) and released under the MIT licence (Copyright 2021 London Biofoundry)
