@@ -15,7 +15,7 @@ $ pip install platemap
 To install from github
 
 ```bash
-$ git clone https://github.com/Benedict-Carling/spanish-conjugator.git
+$ git clone https://github.com/LondonBiofoundry/platemap.git
 ```
 
 ```bash

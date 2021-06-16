@@ -18,7 +18,7 @@ print(example_96_well_plate.rows)
 ```
 
 ```python
-print(example_96_well_plate.colums)
+print(example_96_well_plate.colunms)
 > [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
 ```
 
