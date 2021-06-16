@@ -24,7 +24,7 @@ add_volume(
     volume_id = 'water'
 )
 
-print(plate96["A1"])
+print(plate6["A1"])
 
 > {
     "id": "A1",
@@ -35,6 +35,6 @@ print(plate96["A1"])
 
 :::tip
 
-You can access contents of wells as above by using plate96['A1'] instead of using standard plate96.contents['A1']
+You can access contents of wells as above by using plate6['A1'] instead of using standard plate6.contents['A1']
 
 :::
