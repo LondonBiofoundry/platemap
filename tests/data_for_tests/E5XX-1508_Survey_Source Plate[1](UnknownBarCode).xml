@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<report>
+     <reportheader>
+          <RunID name="Run ID">1634728616</RunID>
+          <RunDateTime name="Run Date/Time">2021-10-20 12:20:49</RunDateTime>
+          <AppName name="Application Name">Echo Cherry Pick</AppName>
+          <AppVersion name="Application Version">1.8.1</AppVersion>
+          <ProtocolName name="Protocol Name">2021-10-20_clips.ecp</ProtocolName>
+          <OrderID name="Order ID">
+          </OrderID>
+          <ReferenceID name="Reference ID">
+          </ReferenceID>
+          <UserName name="User Name">Beckman Coulter</UserName>
+     </reportheader>
+     <reportbody>
+          <record>
+               <SrcPlateName name="Source Plate Name">Source Plate[1]</SrcPlateName>
+               <SrcPlateBarcode name="Source Plate Barcode">UnknownBarCode</SrcPlateBarcode>
+               <SrcPlateType name="Source Plate Type">384PP_Plus_AQ_BP</SrcPlateType>
+               <SrcWell name="Source Well">A3</SrcWell>
+               <SurveyFluidHeight name="Survey Fluid Height">1.669</SurveyFluidHeight>
+               <SurveyFluidVolume name="Survey Fluid Volume">29.831</SurveyFluidVolume>
+               <FluidComposition name="Fluid Composition">100</FluidComposition>
+               <FluidUnits name="Fluid Units">
+               </FluidUnits>
+               <FluidType name="Fluid Type">AQ</FluidType>
+               <SurveyStatus name="Survey Status">
+               </SurveyStatus>
+          </record>
+          <record>
+               <SrcPlateName name="Source Plate Name">Source Plate[1]</SrcPlateName>
+               <SrcPlateBarcode name="Source Plate Barcode">UnknownBarCode</SrcPlateBarcode>
+               <SrcPlateType name="Source Plate Type">384PP_Plus_AQ_BP</SrcPlateType>
+               <SrcWell name="Source Well">C3</SrcWell>
+               <SurveyFluidHeight name="Survey Fluid Height">1.664</SurveyFluidHeight>
+               <SurveyFluidVolume name="Survey Fluid Volume">29.771</SurveyFluidVolume>
+               <FluidComposition name="Fluid Composition">100</FluidComposition>
+               <FluidUnits name="Fluid Units">
+               </FluidUnits>
+               <FluidType name="Fluid Type">AQ</FluidType>
+               <SurveyStatus name="Survey Status">
+               </SurveyStatus>
+          </record>
+          <record>
+               <SrcPlateName name="Source Plate Name">Source Plate[1]</SrcPlateName>
+               <SrcPlateBarcode name="Source Plate Barcode">UnknownBarCode</SrcPlateBarcode>
+               <SrcPlateType name="Source Plate Type">384PP_Plus_AQ_BP</SrcPlateType>
+               <SrcWell name="Source Well">E3</SrcWell>
+               <SurveyFluidHeight name="Survey Fluid Height">1.621</SurveyFluidHeight>
+               <SurveyFluidVolume name="Survey Fluid Volume">29.191</SurveyFluidVolume>
+               <FluidComposition name="Fluid Composition">100</FluidComposition>
+               <FluidUnits name="Fluid Units">
+               </FluidUnits>
+               <FluidType name="Fluid Type">AQ</FluidType>
+               <SurveyStatus name="Survey Status">
+               </SurveyStatus>
+          </record>
+          <record>
+               <SrcPlateName name="Source Plate Name">Source Plate[1]</SrcPlateName>
+               <SrcPlateBarcode name="Source Plate Barcode">UnknownBarCode</SrcPlateBarcode>
+               <SrcPlateType name="Source Plate Type">384PP_Plus_AQ_BP</SrcPlateType>
+               <SrcWell name="Source Well">G3</SrcWell>
+               <SurveyFluidHeight name="Survey Fluid Height">1.688</SurveyFluidHeight>
+               <SurveyFluidVolume name="Survey Fluid Volume">30.092</SurveyFluidVolume>
+               <FluidComposition name="Fluid Composition">100</FluidComposition>
+               <FluidUnits name="Fluid Units">
+               </FluidUnits>
+               <FluidType name="Fluid Type">AQ</FluidType>
+               <SurveyStatus name="Survey Status">
+               </SurveyStatus>
+          </record>
+          <record>
+               <SrcPlateName name="Source Plate Name">Source Plate[1]</SrcPlateName>
+               <SrcPlateBarcode name="Source Plate Barcode">UnknownBarCode</SrcPlateBarcode>
+               <SrcPlateType name="Source Plate Type">384PP_Plus_AQ_BP</SrcPlateType>
+               <SrcWell name="Source Well">I3</SrcWell>
+               <SurveyFluidHeight name="Survey Fluid Height">1.675</SurveyFluidHeight>
+               <SurveyFluidVolume name="Survey Fluid Volume">29.911</SurveyFluidVolume>
+               <FluidComposition name="Fluid Composition">100</FluidComposition>
+               <FluidUnits name="Fluid Units">
+               </FluidUnits>
+               <FluidType name="Fluid Type">AQ</FluidType>
+               <SurveyStatus name="Survey Status">
+               </SurveyStatus>
+          </record>
+          <record>
+               <SrcPlateName name="Source Plate Name">Source Plate[1]</SrcPlateName>
+               <SrcPlateBarcode name="Source Plate Barcode">UnknownBarCode</SrcPlateBarcode>
+               <SrcPlateType name="Source Plate Type">384PP_Plus_AQ_BP</SrcPlateType>
+               <SrcWell name="Source Well">K3</SrcWell>
+               <SurveyFluidHeight name="Survey Fluid Height">1.704</SurveyFluidHeight>
+               <SurveyFluidVolume name="Survey Fluid Volume">30.312</SurveyFluidVolume>
+               <FluidComposition name="Fluid Composition">100</FluidComposition>
+               <FluidUnits name="Fluid Units">
+               </FluidUnits>
+               <FluidType name="Fluid Type">AQ</FluidType>
+               <SurveyStatus name="Survey Status">
+               </SurveyStatus>
+          </record>
+          <record>
+               <SrcPlateName name="Source Plate Name">Source Plate[1]</SrcPlateName>
+               <SrcPlateBarcode name="Source Plate Barcode">UnknownBarCode</SrcPlateBarcode>
+               <SrcPlateType name="Source Plate Type">384PP_Plus_AQ_BP</SrcPlateType>
+               <SrcWell name="Source Well">M3</SrcWell>
+               <SurveyFluidHeight name="Survey Fluid Height">1.691</SurveyFluidHeight>
+               <SurveyFluidVolume name="Survey Fluid Volume">30.132</SurveyFluidVolume>
+               <FluidComposition name="Fluid Composition">100</FluidComposition>
+               <FluidUnits name="Fluid Units">
+               </FluidUnits>
+               <FluidType name="Fluid Type">AQ</FluidType>
+               <SurveyStatus name="Survey Status">
+               </SurveyStatus>
+          </record>
+          <record>
+               <SrcPlateName name="Source Plate Name">Source Plate[1]</SrcPlateName>
+               <SrcPlateBarcode name="Source Plate Barcode">UnknownBarCode</SrcPlateBarcode>
+               <SrcPlateType name="Source Plate Type">384PP_Plus_AQ_BP</SrcPlateType>
+               <SrcWell name="Source Well">O3</SrcWell>
+               <SurveyFluidHeight name="Survey Fluid Height">1.666</SurveyFluidHeight>
+               <SurveyFluidVolume name="Survey Fluid Volume">29.791</SurveyFluidVolume>
+               <FluidComposition name="Fluid Composition">100</FluidComposition>
+               <FluidUnits name="Fluid Units">
+               </FluidUnits>
+               <FluidType name="Fluid Type">AQ</FluidType>
+               <SurveyStatus name="Survey Status">
+               </SurveyStatus>
+          </record>
+          <record>
+               <SrcPlateName name="Source Plate Name">Source Plate[1]</SrcPlateName>
+               <SrcPlateBarcode name="Source Plate Barcode">UnknownBarCode</SrcPlateBarcode>
+               <SrcPlateType name="Source Plate Type">384PP_Plus_AQ_BP</SrcPlateType>
+               <SrcWell name="Source Well">A4</SrcWell>
+               <SurveyFluidHeight name="Survey Fluid Height">1.724</SurveyFluidHeight>
+               <SurveyFluidVolume name="Survey Fluid Volume">30.572</SurveyFluidVolume>
+               <FluidComposition name="Fluid Composition">100</FluidComposition>
+               <FluidUnits name="Fluid Units">
+               </FluidUnits>
+               <FluidType name="Fluid Type">AQ</FluidType>
+               <SurveyStatus name="Survey Status">
+               </SurveyStatus>
+          </record>
+          <record>
+               <SrcPlateName name="Source Plate Name">Source Plate[1]</SrcPlateName>
+               <SrcPlateBarcode name="Source Plate Barcode">UnknownBarCode</SrcPlateBarcode>
+               <SrcPlateType name="Source Plate Type">384PP_Plus_AQ_BP</SrcPlateType>
+               <SrcWell name="Source Well">C4</SrcWell>
+               <SurveyFluidHeight name="Survey Fluid Height">1.695</SurveyFluidHeight>
+               <SurveyFluidVolume name="Survey Fluid Volume">30.192</SurveyFluidVolume>
+               <FluidComposition name="Fluid Composition">100</FluidComposition>
+               <FluidUnits name="Fluid Units">
+               </FluidUnits>
+               <FluidType name="Fluid Type">AQ</FluidType>
+               <SurveyStatus name="Survey Status">
+               </SurveyStatus>
+          </record>
+          <record>
+               <SrcPlateName name="Source Plate Name">Source Plate[1]</SrcPlateName>
+               <SrcPlateBarcode name="Source Plate Barcode">UnknownBarCode</SrcPlateBarcode>
+               <SrcPlateType name="Source Plate Type">384PP_Plus_AQ_BP</SrcPlateType>
+               <SrcWell name="Source Well">E4</SrcWell>
+               <SurveyFluidHeight name="Survey Fluid Height">1.685</SurveyFluidHeight>
+               <SurveyFluidVolume name="Survey Fluid Volume">30.052</SurveyFluidVolume>
+               <FluidComposition name="Fluid Composition">100</FluidComposition>
+               <FluidUnits name="Fluid Units">
+               </FluidUnits>
+               <FluidType name="Fluid Type">AQ</FluidType>
+               <SurveyStatus name="Survey Status">
+               </SurveyStatus>
+          </record>
+          <record>
+               <SrcPlateName name="Source Plate Name">Source Plate[1]</SrcPlateName>
+               <SrcPlateBarcode name="Source Plate Barcode">UnknownBarCode</SrcPlateBarcode>
+               <SrcPlateType name="Source Plate Type">384PP_Plus_AQ_BP</SrcPlateType>
+               <SrcWell name="Source Well">G4</SrcWell>
+               <SurveyFluidHeight name="Survey Fluid Height">1.701</SurveyFluidHeight>
+               <SurveyFluidVolume name="Survey Fluid Volume">30.272</SurveyFluidVolume>
+               <FluidComposition name="Fluid Composition">100</FluidComposition>
+               <FluidUnits name="Fluid Units">
+               </FluidUnits>
+               <FluidType name="Fluid Type">AQ</FluidType>
+               <SurveyStatus name="Survey Status">
+               </SurveyStatus>
+          </record>
+          <record>
+               <SrcPlateName name="Source Plate Name">Source Plate[1]</SrcPlateName>
+               <SrcPlateBarcode name="Source Plate Barcode">UnknownBarCode</SrcPlateBarcode>
+               <SrcPlateType name="Source Plate Type">384PP_Plus_AQ_BP</SrcPlateType>
+               <SrcWell name="Source Well">I4</SrcWell>
+               <SurveyFluidHeight name="Survey Fluid Height">1.559</SurveyFluidHeight>
+               <SurveyFluidVolume name="Survey Fluid Volume">28.35</SurveyFluidVolume>
+               <FluidComposition name="Fluid Composition">100</FluidComposition>
+               <FluidUnits name="Fluid Units">
+               </FluidUnits>
+               <FluidType name="Fluid Type">AQ</FluidType>
+               <SurveyStatus name="Survey Status">
+               </SurveyStatus>
+          </record>
+     </reportbody>
+     <reportfooter>
+          <InstrName name="Instrument Name">E5XX-1508</InstrName>
+          <InstrModel name="Instrument Model">Echo 525</InstrModel>
+          <InstrSN name="Instrument Serial Number">E5XX-1508</InstrSN>
+          <InstrSWVersion name="Instrument Software Version">2.6.3</InstrSWVersion>
+     </reportfooter>
+</report>
