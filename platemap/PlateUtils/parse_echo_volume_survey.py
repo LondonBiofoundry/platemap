@@ -28,5 +28,4 @@ def mapBodyRecordInfo(record):
 def getBodyRecordInfo(body):
     surveyData = map(mapBodyRecordInfo, body)
     surveyList = list(surveyData)
-    print(surveyList)
     return surveyList
