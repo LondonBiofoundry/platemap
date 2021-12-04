@@ -3,38 +3,7 @@ from platemap import Plate, parseEchoSurveyXML, add_volume
 import xmltodict
 import json
 
-
-def clearWell(plate, well):
-    plate.contents[well]["total_volume"] = 0.0
-    plate.contents[well]["composition"] = {}
-
-
-def updateVolumesFromEchoSurvey(plate, volumeSurvey):
-    for volumeUpdateDict in volumeSurvey:
-        if len(plate.contents[volumeUpdateDict["well"]]["composition"]) == 0:
-            add_volume(
-                destination_plate=plate,
-                destination_well=volumeUpdateDict["well"],
-                volume=volumeUpdateDict["volume"],
-                volume_id="unknown",
-            )
-        elif len(plate.contents[volumeUpdateDict["well"]]["composition"]) == 1:
-            liquidID = plate.contents[volumeUpdateDict["well"]]["composition"].keys()[0]
-            clearWell(plate, volumeUpdateDict["well"])
-            add_volume(
-                destination_plate=plate,
-                destination_well=volumeUpdateDict["well"],
-                volume=volumeUpdateDict["volume"],
-                volume_id=liquidID,
-            )
-        else:
-            add_volume(
-                destination_plate=plate,
-                destination_well=volumeUpdateDict["well"],
-                volume=volumeUpdateDict["volume"],
-                volume_id=liquidID,
-            )
-    return
+from platemap.PlateUtils.parse_echo_volume_survey import updateVolumesFromEchoSurveyData
 
 
 def test_can_update_volumes_from_xml():
@@ -44,7 +13,7 @@ def test_can_update_volumes_from_xml():
     """
     volumeSurvey = [{"well": "A1", "volume": 29.831}]
     plate = Plate(size=6, well_volume=50)
-    updateVolumesFromEchoSurvey(plate, volumeSurvey)
+    updateVolumesFromEchoSurveyData(plate, volumeSurvey)
     assert plate.contents == {
         "A1": {
             "id": "A1",
