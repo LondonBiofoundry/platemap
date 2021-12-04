@@ -1,37 +1,7 @@
 import pytest
-from platemap import Plate
+from platemap import Plate, parseEchoSurveyXML
 import xmltodict
 import json
-
-
-def parseXML(filename):
-    with open(filename, "r") as f:
-        data = f.read()
-    o = xmltodict.parse(data)
-    output = json.dumps(o)
-    parsed = json.loads(output)
-    body = getJsonReportBody(parsed)
-    surveyData = getBodyRecordInfo(body)
-    return surveyData
-
-
-def getJsonReportBody(data):
-    body = data["report"]["reportbody"]["record"]
-    return body
-
-
-def mapBodyRecordInfo(record):
-    return {
-        "well": record["SrcWell"]["#text"],
-        "volume": record["SurveyFluidVolume"]["#text"],
-    }
-
-
-def getBodyRecordInfo(body):
-    surveyData = map(mapBodyRecordInfo, body)
-    surveyList = list(surveyData)
-    print(surveyList)
-    return surveyList
 
 
 def test_build_6_well_plate():
@@ -39,7 +9,7 @@ def test_build_6_well_plate():
     Tests 6 plate well is built correctly
 
     """
-    data = parseXML(
+    data = parseEchoSurveyXML(
         "tests/data_for_tests/E5XX-1508_Survey_Source Plate[1](UnknownBarCode).xml"
     )
     assert data == [
