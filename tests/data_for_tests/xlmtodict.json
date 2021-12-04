@@ -1,0 +1,384 @@
+{
+  "report": {
+    "reportheader": {
+      "RunID": { "@name": "Run ID", "#text": "1634728616" },
+      "RunDateTime": {
+        "@name": "Run Date/Time",
+        "#text": "2021-10-20 12:20:49"
+      },
+      "AppName": { "@name": "Application Name", "#text": "Echo Cherry Pick" },
+      "AppVersion": { "@name": "Application Version", "#text": "1.8.1" },
+      "ProtocolName": {
+        "@name": "Protocol Name",
+        "#text": "2021-10-20_clips.ecp"
+      },
+      "OrderID": { "@name": "Order ID" },
+      "ReferenceID": { "@name": "Reference ID" },
+      "UserName": { "@name": "User Name", "#text": "Beckman Coulter" }
+    },
+    "reportbody": {
+      "record": [
+        {
+          "SrcPlateName": {
+            "@name": "Source Plate Name",
+            "#text": "Source Plate[1]"
+          },
+          "SrcPlateBarcode": {
+            "@name": "Source Plate Barcode",
+            "#text": "UnknownBarCode"
+          },
+          "SrcPlateType": {
+            "@name": "Source Plate Type",
+            "#text": "384PP_Plus_AQ_BP"
+          },
+          "SrcWell": { "@name": "Source Well", "#text": "A3" },
+          "SurveyFluidHeight": {
+            "@name": "Survey Fluid Height",
+            "#text": "1.669"
+          },
+          "SurveyFluidVolume": {
+            "@name": "Survey Fluid Volume",
+            "#text": "29.831"
+          },
+          "FluidComposition": { "@name": "Fluid Composition", "#text": "100" },
+          "FluidUnits": { "@name": "Fluid Units" },
+          "FluidType": { "@name": "Fluid Type", "#text": "AQ" },
+          "SurveyStatus": { "@name": "Survey Status" }
+        },
+        {
+          "SrcPlateName": {
+            "@name": "Source Plate Name",
+            "#text": "Source Plate[1]"
+          },
+          "SrcPlateBarcode": {
+            "@name": "Source Plate Barcode",
+            "#text": "UnknownBarCode"
+          },
+          "SrcPlateType": {
+            "@name": "Source Plate Type",
+            "#text": "384PP_Plus_AQ_BP"
+          },
+          "SrcWell": { "@name": "Source Well", "#text": "C3" },
+          "SurveyFluidHeight": {
+            "@name": "Survey Fluid Height",
+            "#text": "1.664"
+          },
+          "SurveyFluidVolume": {
+            "@name": "Survey Fluid Volume",
+            "#text": "29.771"
+          },
+          "FluidComposition": { "@name": "Fluid Composition", "#text": "100" },
+          "FluidUnits": { "@name": "Fluid Units" },
+          "FluidType": { "@name": "Fluid Type", "#text": "AQ" },
+          "SurveyStatus": { "@name": "Survey Status" }
+        },
+        {
+          "SrcPlateName": {
+            "@name": "Source Plate Name",
+            "#text": "Source Plate[1]"
+          },
+          "SrcPlateBarcode": {
+            "@name": "Source Plate Barcode",
+            "#text": "UnknownBarCode"
+          },
+          "SrcPlateType": {
+            "@name": "Source Plate Type",
+            "#text": "384PP_Plus_AQ_BP"
+          },
+          "SrcWell": { "@name": "Source Well", "#text": "E3" },
+          "SurveyFluidHeight": {
+            "@name": "Survey Fluid Height",
+            "#text": "1.621"
+          },
+          "SurveyFluidVolume": {
+            "@name": "Survey Fluid Volume",
+            "#text": "29.191"
+          },
+          "FluidComposition": { "@name": "Fluid Composition", "#text": "100" },
+          "FluidUnits": { "@name": "Fluid Units" },
+          "FluidType": { "@name": "Fluid Type", "#text": "AQ" },
+          "SurveyStatus": { "@name": "Survey Status" }
+        },
+        {
+          "SrcPlateName": {
+            "@name": "Source Plate Name",
+            "#text": "Source Plate[1]"
+          },
+          "SrcPlateBarcode": {
+            "@name": "Source Plate Barcode",
+            "#text": "UnknownBarCode"
+          },
+          "SrcPlateType": {
+            "@name": "Source Plate Type",
+            "#text": "384PP_Plus_AQ_BP"
+          },
+          "SrcWell": { "@name": "Source Well", "#text": "G3" },
+          "SurveyFluidHeight": {
+            "@name": "Survey Fluid Height",
+            "#text": "1.688"
+          },
+          "SurveyFluidVolume": {
+            "@name": "Survey Fluid Volume",
+            "#text": "30.092"
+          },
+          "FluidComposition": { "@name": "Fluid Composition", "#text": "100" },
+          "FluidUnits": { "@name": "Fluid Units" },
+          "FluidType": { "@name": "Fluid Type", "#text": "AQ" },
+          "SurveyStatus": { "@name": "Survey Status" }
+        },
+        {
+          "SrcPlateName": {
+            "@name": "Source Plate Name",
+            "#text": "Source Plate[1]"
+          },
+          "SrcPlateBarcode": {
+            "@name": "Source Plate Barcode",
+            "#text": "UnknownBarCode"
+          },
+          "SrcPlateType": {
+            "@name": "Source Plate Type",
+            "#text": "384PP_Plus_AQ_BP"
+          },
+          "SrcWell": { "@name": "Source Well", "#text": "I3" },
+          "SurveyFluidHeight": {
+            "@name": "Survey Fluid Height",
+            "#text": "1.675"
+          },
+          "SurveyFluidVolume": {
+            "@name": "Survey Fluid Volume",
+            "#text": "29.911"
+          },
+          "FluidComposition": { "@name": "Fluid Composition", "#text": "100" },
+          "FluidUnits": { "@name": "Fluid Units" },
+          "FluidType": { "@name": "Fluid Type", "#text": "AQ" },
+          "SurveyStatus": { "@name": "Survey Status" }
+        },
+        {
+          "SrcPlateName": {
+            "@name": "Source Plate Name",
+            "#text": "Source Plate[1]"
+          },
+          "SrcPlateBarcode": {
+            "@name": "Source Plate Barcode",
+            "#text": "UnknownBarCode"
+          },
+          "SrcPlateType": {
+            "@name": "Source Plate Type",
+            "#text": "384PP_Plus_AQ_BP"
+          },
+          "SrcWell": { "@name": "Source Well", "#text": "K3" },
+          "SurveyFluidHeight": {
+            "@name": "Survey Fluid Height",
+            "#text": "1.704"
+          },
+          "SurveyFluidVolume": {
+            "@name": "Survey Fluid Volume",
+            "#text": "30.312"
+          },
+          "FluidComposition": { "@name": "Fluid Composition", "#text": "100" },
+          "FluidUnits": { "@name": "Fluid Units" },
+          "FluidType": { "@name": "Fluid Type", "#text": "AQ" },
+          "SurveyStatus": { "@name": "Survey Status" }
+        },
+        {
+          "SrcPlateName": {
+            "@name": "Source Plate Name",
+            "#text": "Source Plate[1]"
+          },
+          "SrcPlateBarcode": {
+            "@name": "Source Plate Barcode",
+            "#text": "UnknownBarCode"
+          },
+          "SrcPlateType": {
+            "@name": "Source Plate Type",
+            "#text": "384PP_Plus_AQ_BP"
+          },
+          "SrcWell": { "@name": "Source Well", "#text": "M3" },
+          "SurveyFluidHeight": {
+            "@name": "Survey Fluid Height",
+            "#text": "1.691"
+          },
+          "SurveyFluidVolume": {
+            "@name": "Survey Fluid Volume",
+            "#text": "30.132"
+          },
+          "FluidComposition": { "@name": "Fluid Composition", "#text": "100" },
+          "FluidUnits": { "@name": "Fluid Units" },
+          "FluidType": { "@name": "Fluid Type", "#text": "AQ" },
+          "SurveyStatus": { "@name": "Survey Status" }
+        },
+        {
+          "SrcPlateName": {
+            "@name": "Source Plate Name",
+            "#text": "Source Plate[1]"
+          },
+          "SrcPlateBarcode": {
+            "@name": "Source Plate Barcode",
+            "#text": "UnknownBarCode"
+          },
+          "SrcPlateType": {
+            "@name": "Source Plate Type",
+            "#text": "384PP_Plus_AQ_BP"
+          },
+          "SrcWell": { "@name": "Source Well", "#text": "O3" },
+          "SurveyFluidHeight": {
+            "@name": "Survey Fluid Height",
+            "#text": "1.666"
+          },
+          "SurveyFluidVolume": {
+            "@name": "Survey Fluid Volume",
+            "#text": "29.791"
+          },
+          "FluidComposition": { "@name": "Fluid Composition", "#text": "100" },
+          "FluidUnits": { "@name": "Fluid Units" },
+          "FluidType": { "@name": "Fluid Type", "#text": "AQ" },
+          "SurveyStatus": { "@name": "Survey Status" }
+        },
+        {
+          "SrcPlateName": {
+            "@name": "Source Plate Name",
+            "#text": "Source Plate[1]"
+          },
+          "SrcPlateBarcode": {
+            "@name": "Source Plate Barcode",
+            "#text": "UnknownBarCode"
+          },
+          "SrcPlateType": {
+            "@name": "Source Plate Type",
+            "#text": "384PP_Plus_AQ_BP"
+          },
+          "SrcWell": { "@name": "Source Well", "#text": "A4" },
+          "SurveyFluidHeight": {
+            "@name": "Survey Fluid Height",
+            "#text": "1.724"
+          },
+          "SurveyFluidVolume": {
+            "@name": "Survey Fluid Volume",
+            "#text": "30.572"
+          },
+          "FluidComposition": { "@name": "Fluid Composition", "#text": "100" },
+          "FluidUnits": { "@name": "Fluid Units" },
+          "FluidType": { "@name": "Fluid Type", "#text": "AQ" },
+          "SurveyStatus": { "@name": "Survey Status" }
+        },
+        {
+          "SrcPlateName": {
+            "@name": "Source Plate Name",
+            "#text": "Source Plate[1]"
+          },
+          "SrcPlateBarcode": {
+            "@name": "Source Plate Barcode",
+            "#text": "UnknownBarCode"
+          },
+          "SrcPlateType": {
+            "@name": "Source Plate Type",
+            "#text": "384PP_Plus_AQ_BP"
+          },
+          "SrcWell": { "@name": "Source Well", "#text": "C4" },
+          "SurveyFluidHeight": {
+            "@name": "Survey Fluid Height",
+            "#text": "1.695"
+          },
+          "SurveyFluidVolume": {
+            "@name": "Survey Fluid Volume",
+            "#text": "30.192"
+          },
+          "FluidComposition": { "@name": "Fluid Composition", "#text": "100" },
+          "FluidUnits": { "@name": "Fluid Units" },
+          "FluidType": { "@name": "Fluid Type", "#text": "AQ" },
+          "SurveyStatus": { "@name": "Survey Status" }
+        },
+        {
+          "SrcPlateName": {
+            "@name": "Source Plate Name",
+            "#text": "Source Plate[1]"
+          },
+          "SrcPlateBarcode": {
+            "@name": "Source Plate Barcode",
+            "#text": "UnknownBarCode"
+          },
+          "SrcPlateType": {
+            "@name": "Source Plate Type",
+            "#text": "384PP_Plus_AQ_BP"
+          },
+          "SrcWell": { "@name": "Source Well", "#text": "E4" },
+          "SurveyFluidHeight": {
+            "@name": "Survey Fluid Height",
+            "#text": "1.685"
+          },
+          "SurveyFluidVolume": {
+            "@name": "Survey Fluid Volume",
+            "#text": "30.052"
+          },
+          "FluidComposition": { "@name": "Fluid Composition", "#text": "100" },
+          "FluidUnits": { "@name": "Fluid Units" },
+          "FluidType": { "@name": "Fluid Type", "#text": "AQ" },
+          "SurveyStatus": { "@name": "Survey Status" }
+        },
+        {
+          "SrcPlateName": {
+            "@name": "Source Plate Name",
+            "#text": "Source Plate[1]"
+          },
+          "SrcPlateBarcode": {
+            "@name": "Source Plate Barcode",
+            "#text": "UnknownBarCode"
+          },
+          "SrcPlateType": {
+            "@name": "Source Plate Type",
+            "#text": "384PP_Plus_AQ_BP"
+          },
+          "SrcWell": { "@name": "Source Well", "#text": "G4" },
+          "SurveyFluidHeight": {
+            "@name": "Survey Fluid Height",
+            "#text": "1.701"
+          },
+          "SurveyFluidVolume": {
+            "@name": "Survey Fluid Volume",
+            "#text": "30.272"
+          },
+          "FluidComposition": { "@name": "Fluid Composition", "#text": "100" },
+          "FluidUnits": { "@name": "Fluid Units" },
+          "FluidType": { "@name": "Fluid Type", "#text": "AQ" },
+          "SurveyStatus": { "@name": "Survey Status" }
+        },
+        {
+          "SrcPlateName": {
+            "@name": "Source Plate Name",
+            "#text": "Source Plate[1]"
+          },
+          "SrcPlateBarcode": {
+            "@name": "Source Plate Barcode",
+            "#text": "UnknownBarCode"
+          },
+          "SrcPlateType": {
+            "@name": "Source Plate Type",
+            "#text": "384PP_Plus_AQ_BP"
+          },
+          "SrcWell": { "@name": "Source Well", "#text": "I4" },
+          "SurveyFluidHeight": {
+            "@name": "Survey Fluid Height",
+            "#text": "1.559"
+          },
+          "SurveyFluidVolume": {
+            "@name": "Survey Fluid Volume",
+            "#text": "28.35"
+          },
+          "FluidComposition": { "@name": "Fluid Composition", "#text": "100" },
+          "FluidUnits": { "@name": "Fluid Units" },
+          "FluidType": { "@name": "Fluid Type", "#text": "AQ" },
+          "SurveyStatus": { "@name": "Survey Status" }
+        }
+      ]
+    },
+    "reportfooter": {
+      "InstrName": { "@name": "Instrument Name", "#text": "E5XX-1508" },
+      "InstrModel": { "@name": "Instrument Model", "#text": "Echo 525" },
+      "InstrSN": { "@name": "Instrument Serial Number", "#text": "E5XX-1508" },
+      "InstrSWVersion": {
+        "@name": "Instrument Software Version",
+        "#text": "2.6.3"
+      }
+    }
+  }
+}
