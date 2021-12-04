@@ -21,7 +21,7 @@ def getJsonReportBody(data):
 def mapBodyRecordInfo(record):
     return {
         "well": record["SrcWell"]["#text"],
-        "volume": record["SurveyFluidVolume"]["#text"],
+        "volume": float(record["SurveyFluidVolume"]["#text"]),
     }
 
 
