@@ -165,7 +165,6 @@ sketch
 /build
 
 # Generated files
-.docusaurus
 .cache-loader
 
 # Misc

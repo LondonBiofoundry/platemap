@@ -6,7 +6,7 @@ title: platemap.PlateUtils.add_volume
 #### add\_volume
 
 ```python
-add_volume(destination_plate: Plate, destination_well: str, volume: float, volume_id: str, volume_concentration: int = None)
+def add_volume(destination_plate: Plate, destination_well: str, volume: float, volume_id: str, volume_concentration: int = None)
 ```
 
 Add volume to a well of a plate object

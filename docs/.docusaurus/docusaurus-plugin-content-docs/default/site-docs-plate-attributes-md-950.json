@@ -1,0 +1,21 @@
+{
+  "unversionedId": "plate_attributes",
+  "id": "plate_attributes",
+  "isDocsHomePage": false,
+  "title": "Using Plate Attributes",
+  "description": "Rows -- and columns ||",
+  "source": "@site/docs/plate_attributes.md",
+  "slug": "/plate_attributes",
+  "permalink": "/docs/plate_attributes",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/plate_attributes.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Creating Plates",
+    "permalink": "/docs/creating_plates_1"
+  },
+  "next": {
+    "title": "Add Volume",
+    "permalink": "/docs/add_volume"
+  }
+}

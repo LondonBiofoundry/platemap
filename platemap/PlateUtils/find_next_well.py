@@ -6,6 +6,14 @@ def find_well(
     target_volume_id: str,
     target_volume: int,
 ):
+    """Finds the next available well for a specific reagent-id that has sufficient volume defined by the third input argument.
+
+    Args:
+        target_plate (Plate): The target plate to analyse.
+        target_volume_id (str): The regaent ID that you are looking for.
+        target_volume (int): The volume that you are looking to take.
+
+    """
     try:
         return list(
             filter(

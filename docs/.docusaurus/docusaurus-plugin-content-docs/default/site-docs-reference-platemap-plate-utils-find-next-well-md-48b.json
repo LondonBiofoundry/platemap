@@ -1,0 +1,22 @@
+{
+  "unversionedId": "reference/platemap/PlateUtils/find_next_well",
+  "id": "reference/platemap/PlateUtils/find_next_well",
+  "isDocsHomePage": false,
+  "title": "platemap.PlateUtils.find_next_well",
+  "description": "find\\_well",
+  "source": "@site/docs/reference/platemap/PlateUtils/find_next_well.md",
+  "slug": "/reference/platemap/PlateUtils/find_next_well",
+  "permalink": "/docs/reference/platemap/PlateUtils/find_next_well",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/reference/platemap/PlateUtils/find_next_well.md",
+  "version": "current",
+  "sidebar_label": "find_next_well",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "platemap.PlateUtils.assign_source_wells",
+    "permalink": "/docs/reference/platemap/PlateUtils/assign_source_wells"
+  },
+  "next": {
+    "title": "platemap.PlateUtils.parse_echo_volume_survey",
+    "permalink": "/docs/reference/platemap/PlateUtils/parse_echo_volume_survey"
+  }
+}

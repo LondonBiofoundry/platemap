@@ -1,0 +1,22 @@
+{
+  "unversionedId": "reference/platemap/PlateUtils/assign_source_wells",
+  "id": "reference/platemap/PlateUtils/assign_source_wells",
+  "isDocsHomePage": false,
+  "title": "platemap.PlateUtils.assign_source_wells",
+  "description": "assign\\source\\wells",
+  "source": "@site/docs/reference/platemap/PlateUtils/assign_source_wells.md",
+  "slug": "/reference/platemap/PlateUtils/assign_source_wells",
+  "permalink": "/docs/reference/platemap/PlateUtils/assign_source_wells",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/reference/platemap/PlateUtils/assign_source_wells.md",
+  "version": "current",
+  "sidebar_label": "assign_source_wells",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "platemap.PlateUtils.add_volume",
+    "permalink": "/docs/reference/platemap/PlateUtils/add_volume"
+  },
+  "next": {
+    "title": "platemap.PlateUtils.find_next_well",
+    "permalink": "/docs/reference/platemap/PlateUtils/find_next_well"
+  }
+}

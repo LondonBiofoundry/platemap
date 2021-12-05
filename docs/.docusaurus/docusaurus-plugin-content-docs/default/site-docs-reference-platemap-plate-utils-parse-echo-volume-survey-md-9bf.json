@@ -1,0 +1,22 @@
+{
+  "unversionedId": "reference/platemap/PlateUtils/parse_echo_volume_survey",
+  "id": "reference/platemap/PlateUtils/parse_echo_volume_survey",
+  "isDocsHomePage": false,
+  "title": "platemap.PlateUtils.parse_echo_volume_survey",
+  "description": "updateVolumesFromEchoSurveyFile",
+  "source": "@site/docs/reference/platemap/PlateUtils/parse_echo_volume_survey.md",
+  "slug": "/reference/platemap/PlateUtils/parse_echo_volume_survey",
+  "permalink": "/docs/reference/platemap/PlateUtils/parse_echo_volume_survey",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/reference/platemap/PlateUtils/parse_echo_volume_survey.md",
+  "version": "current",
+  "sidebar_label": "parse_echo_volume_survey",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "platemap.PlateUtils.find_next_well",
+    "permalink": "/docs/reference/platemap/PlateUtils/find_next_well"
+  },
+  "next": {
+    "title": "platemap.PlateUtils.remove_volume",
+    "permalink": "/docs/reference/platemap/PlateUtils/remove_volume"
+  }
+}

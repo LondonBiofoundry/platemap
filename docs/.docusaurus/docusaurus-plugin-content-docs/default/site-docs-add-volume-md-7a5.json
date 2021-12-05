@@ -1,0 +1,21 @@
+{
+  "unversionedId": "add_volume",
+  "id": "add_volume",
+  "isDocsHomePage": false,
+  "title": "Add Volume",
+  "description": "Add volume to singular wells",
+  "source": "@site/docs/add_volume.md",
+  "slug": "/add_volume",
+  "permalink": "/docs/add_volume",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/add_volume.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Using Plate Attributes",
+    "permalink": "/docs/plate_attributes"
+  },
+  "next": {
+    "title": "Transfer Volume",
+    "permalink": "/docs/transfer_volume"
+  }
+}

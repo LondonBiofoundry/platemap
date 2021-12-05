@@ -1,15 +1,18 @@
 {
   "items": [
-    "reference/platemap/plate",
     {
       "items": [
-        "reference/platemap/PlateUtils/remove_volume",
         "reference/platemap/PlateUtils/add_volume",
+        "reference/platemap/PlateUtils/assign_source_wells",
+        "reference/platemap/PlateUtils/find_next_well",
+        "reference/platemap/PlateUtils/parse_echo_volume_survey",
+        "reference/platemap/PlateUtils/remove_volume",
         "reference/platemap/PlateUtils/transfer"
       ],
       "label": "platemap.PlateUtils",
       "type": "category"
-    }
+    },
+    "reference/platemap/plate"
   ],
   "label": "platemap",
   "type": "category"

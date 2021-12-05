@@ -1,0 +1,619 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/docs",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/benedictcarling/platemap/docs/sidebars.js",
+          "docsDirPath": "/Users/benedictcarling/platemap/docs/docs",
+          "docsDirPathLocalized": "/Users/benedictcarling/platemap/docs/i18n/en/docusaurus-plugin-content-docs/current",
+          "mainDocId": "installation",
+          "sidebars": {
+            "someSidebar": [
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "Installation",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "installation"
+                  }
+                ]
+              },
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "Usage",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "creating_plates_1"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "plate_attributes"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "add_volume"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "transfer_volume"
+                  }
+                ]
+              },
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "Documentation",
+                "items": [
+                  {
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "reference/platemap/PlateUtils/add_volume"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "reference/platemap/PlateUtils/assign_source_wells"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "reference/platemap/PlateUtils/find_next_well"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "reference/platemap/PlateUtils/parse_echo_volume_survey"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "reference/platemap/PlateUtils/remove_volume"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "reference/platemap/PlateUtils/transfer"
+                          }
+                        ],
+                        "label": "platemap.PlateUtils",
+                        "type": "category"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "reference/platemap/plate"
+                      }
+                    ],
+                    "label": "platemap",
+                    "type": "category"
+                  }
+                ]
+              },
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "Contributing",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "contributing_guideline"
+                  }
+                ]
+              }
+            ]
+          },
+          "permalinkToSidebar": {
+            "/docs/add_volume": "someSidebar",
+            "/docs/contributing_guideline": "someSidebar",
+            "/docs/creating_plates_1": "someSidebar",
+            "/docs/": "someSidebar",
+            "/docs/plate_attributes": "someSidebar",
+            "/docs/reference/platemap/plate": "someSidebar",
+            "/docs/reference/platemap/PlateUtils/add_volume": "someSidebar",
+            "/docs/reference/platemap/PlateUtils/assign_source_wells": "someSidebar",
+            "/docs/reference/platemap/PlateUtils/find_next_well": "someSidebar",
+            "/docs/reference/platemap/PlateUtils/parse_echo_volume_survey": "someSidebar",
+            "/docs/reference/platemap/PlateUtils/remove_volume": "someSidebar",
+            "/docs/reference/platemap/PlateUtils/transfer": "someSidebar",
+            "/docs/transfer_volume": "someSidebar"
+          },
+          "docs": [
+            {
+              "unversionedId": "add_volume",
+              "id": "add_volume",
+              "isDocsHomePage": false,
+              "title": "Add Volume",
+              "description": "Add volume to singular wells",
+              "source": "@site/docs/add_volume.md",
+              "slug": "/add_volume",
+              "permalink": "/docs/add_volume",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/add_volume.md",
+              "version": "current",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Using Plate Attributes",
+                "permalink": "/docs/plate_attributes"
+              },
+              "next": {
+                "title": "Transfer Volume",
+                "permalink": "/docs/transfer_volume"
+              }
+            },
+            {
+              "unversionedId": "contributing_guideline",
+              "id": "contributing_guideline",
+              "isDocsHomePage": false,
+              "title": "Contributing Guidelines",
+              "description": "Set up Development Enviroment",
+              "source": "@site/docs/contributing_guideline.md",
+              "slug": "/contributing_guideline",
+              "permalink": "/docs/contributing_guideline",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/contributing_guideline.md",
+              "version": "current",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "platemap.plate",
+                "permalink": "/docs/reference/platemap/plate"
+              }
+            },
+            {
+              "unversionedId": "creating_plates_1",
+              "id": "creating_plates_1",
+              "isDocsHomePage": false,
+              "title": "Creating Plates",
+              "description": "Standard Plate Dimensions",
+              "source": "@site/docs/creating_plates_1.md",
+              "slug": "/creating_plates_1",
+              "permalink": "/docs/creating_plates_1",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/creating_plates_1.md",
+              "version": "current",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Getting Started",
+                "permalink": "/docs/"
+              },
+              "next": {
+                "title": "Using Plate Attributes",
+                "permalink": "/docs/plate_attributes"
+              }
+            },
+            {
+              "unversionedId": "doc2",
+              "id": "doc2",
+              "isDocsHomePage": false,
+              "title": "Document Number 2",
+              "description": "This is a link to another document. This is a link to an external page.",
+              "source": "@site/docs/doc2.md",
+              "slug": "/doc2",
+              "permalink": "/docs/doc2",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/doc2.md",
+              "version": "current"
+            },
+            {
+              "unversionedId": "doc3",
+              "id": "doc3",
+              "isDocsHomePage": false,
+              "title": "This is Document Number 3",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac euismod odio, eu consequat dui. Nullam molestie consectetur risus id imperdiet. Proin sodales ornare turpis, non mollis massa ultricies id. Nam at nibh scelerisque, feugiat ante non, dapibus tortor. Vivamus volutpat diam quis tellus elementum bibendum. Praesent semper gravida velit quis aliquam. Etiam in cursus neque. Nam lectus ligula, malesuada et mauris a, bibendum faucibus mi. Phasellus ut interdum felis. Phasellus in odio pulvinar, porttitor urna eget, fringilla lectus. Aliquam sollicitudin est eros. Mauris consectetur quam vitae mauris interdum hendrerit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+              "source": "@site/docs/doc3.md",
+              "slug": "/doc3",
+              "permalink": "/docs/doc3",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/doc3.md",
+              "version": "current"
+            },
+            {
+              "unversionedId": "installation",
+              "id": "installation",
+              "isDocsHomePage": false,
+              "title": "Getting Started",
+              "description": "Install platemap",
+              "source": "@site/docs/installation.md",
+              "slug": "/",
+              "permalink": "/docs/",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/installation.md",
+              "version": "current",
+              "sidebar": "someSidebar",
+              "next": {
+                "title": "Creating Plates",
+                "permalink": "/docs/creating_plates_1"
+              }
+            },
+            {
+              "unversionedId": "mdx",
+              "id": "mdx",
+              "isDocsHomePage": false,
+              "title": "Powered by MDX",
+              "description": "You can write JSX and use React components within your Markdown thanks to MDX.",
+              "source": "@site/docs/mdx.md",
+              "slug": "/mdx",
+              "permalink": "/docs/mdx",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/mdx.md",
+              "version": "current"
+            },
+            {
+              "unversionedId": "plate_attributes",
+              "id": "plate_attributes",
+              "isDocsHomePage": false,
+              "title": "Using Plate Attributes",
+              "description": "Rows -- and columns ||",
+              "source": "@site/docs/plate_attributes.md",
+              "slug": "/plate_attributes",
+              "permalink": "/docs/plate_attributes",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/plate_attributes.md",
+              "version": "current",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Creating Plates",
+                "permalink": "/docs/creating_plates_1"
+              },
+              "next": {
+                "title": "Add Volume",
+                "permalink": "/docs/add_volume"
+              }
+            },
+            {
+              "unversionedId": "reference/platemap/plate",
+              "id": "reference/platemap/plate",
+              "isDocsHomePage": false,
+              "title": "platemap.plate",
+              "description": "Plate Objects",
+              "source": "@site/docs/reference/platemap/plate.md",
+              "slug": "/reference/platemap/plate",
+              "permalink": "/docs/reference/platemap/plate",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/reference/platemap/plate.md",
+              "version": "current",
+              "sidebar_label": "plate",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "platemap.PlateUtils.transfer",
+                "permalink": "/docs/reference/platemap/PlateUtils/transfer"
+              },
+              "next": {
+                "title": "Contributing Guidelines",
+                "permalink": "/docs/contributing_guideline"
+              }
+            },
+            {
+              "unversionedId": "reference/platemap/PlateUtils/add_volume",
+              "id": "reference/platemap/PlateUtils/add_volume",
+              "isDocsHomePage": false,
+              "title": "platemap.PlateUtils.add_volume",
+              "description": "add\\_volume",
+              "source": "@site/docs/reference/platemap/PlateUtils/add_volume.md",
+              "slug": "/reference/platemap/PlateUtils/add_volume",
+              "permalink": "/docs/reference/platemap/PlateUtils/add_volume",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/reference/platemap/PlateUtils/add_volume.md",
+              "version": "current",
+              "sidebar_label": "add_volume",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Transfer Volume",
+                "permalink": "/docs/transfer_volume"
+              },
+              "next": {
+                "title": "platemap.PlateUtils.assign_source_wells",
+                "permalink": "/docs/reference/platemap/PlateUtils/assign_source_wells"
+              }
+            },
+            {
+              "unversionedId": "reference/platemap/PlateUtils/assign_source_wells",
+              "id": "reference/platemap/PlateUtils/assign_source_wells",
+              "isDocsHomePage": false,
+              "title": "platemap.PlateUtils.assign_source_wells",
+              "description": "assign\\source\\wells",
+              "source": "@site/docs/reference/platemap/PlateUtils/assign_source_wells.md",
+              "slug": "/reference/platemap/PlateUtils/assign_source_wells",
+              "permalink": "/docs/reference/platemap/PlateUtils/assign_source_wells",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/reference/platemap/PlateUtils/assign_source_wells.md",
+              "version": "current",
+              "sidebar_label": "assign_source_wells",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "platemap.PlateUtils.add_volume",
+                "permalink": "/docs/reference/platemap/PlateUtils/add_volume"
+              },
+              "next": {
+                "title": "platemap.PlateUtils.find_next_well",
+                "permalink": "/docs/reference/platemap/PlateUtils/find_next_well"
+              }
+            },
+            {
+              "unversionedId": "reference/platemap/PlateUtils/find_next_well",
+              "id": "reference/platemap/PlateUtils/find_next_well",
+              "isDocsHomePage": false,
+              "title": "platemap.PlateUtils.find_next_well",
+              "description": "find\\_well",
+              "source": "@site/docs/reference/platemap/PlateUtils/find_next_well.md",
+              "slug": "/reference/platemap/PlateUtils/find_next_well",
+              "permalink": "/docs/reference/platemap/PlateUtils/find_next_well",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/reference/platemap/PlateUtils/find_next_well.md",
+              "version": "current",
+              "sidebar_label": "find_next_well",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "platemap.PlateUtils.assign_source_wells",
+                "permalink": "/docs/reference/platemap/PlateUtils/assign_source_wells"
+              },
+              "next": {
+                "title": "platemap.PlateUtils.parse_echo_volume_survey",
+                "permalink": "/docs/reference/platemap/PlateUtils/parse_echo_volume_survey"
+              }
+            },
+            {
+              "unversionedId": "reference/platemap/PlateUtils/parse_echo_volume_survey",
+              "id": "reference/platemap/PlateUtils/parse_echo_volume_survey",
+              "isDocsHomePage": false,
+              "title": "platemap.PlateUtils.parse_echo_volume_survey",
+              "description": "updateVolumesFromEchoSurveyFile",
+              "source": "@site/docs/reference/platemap/PlateUtils/parse_echo_volume_survey.md",
+              "slug": "/reference/platemap/PlateUtils/parse_echo_volume_survey",
+              "permalink": "/docs/reference/platemap/PlateUtils/parse_echo_volume_survey",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/reference/platemap/PlateUtils/parse_echo_volume_survey.md",
+              "version": "current",
+              "sidebar_label": "parse_echo_volume_survey",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "platemap.PlateUtils.find_next_well",
+                "permalink": "/docs/reference/platemap/PlateUtils/find_next_well"
+              },
+              "next": {
+                "title": "platemap.PlateUtils.remove_volume",
+                "permalink": "/docs/reference/platemap/PlateUtils/remove_volume"
+              }
+            },
+            {
+              "unversionedId": "reference/platemap/PlateUtils/remove_volume",
+              "id": "reference/platemap/PlateUtils/remove_volume",
+              "isDocsHomePage": false,
+              "title": "platemap.PlateUtils.remove_volume",
+              "description": "remove\\_volume",
+              "source": "@site/docs/reference/platemap/PlateUtils/remove_volume.md",
+              "slug": "/reference/platemap/PlateUtils/remove_volume",
+              "permalink": "/docs/reference/platemap/PlateUtils/remove_volume",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/reference/platemap/PlateUtils/remove_volume.md",
+              "version": "current",
+              "sidebar_label": "remove_volume",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "platemap.PlateUtils.parse_echo_volume_survey",
+                "permalink": "/docs/reference/platemap/PlateUtils/parse_echo_volume_survey"
+              },
+              "next": {
+                "title": "platemap.PlateUtils.transfer",
+                "permalink": "/docs/reference/platemap/PlateUtils/transfer"
+              }
+            },
+            {
+              "unversionedId": "reference/platemap/PlateUtils/transfer",
+              "id": "reference/platemap/PlateUtils/transfer",
+              "isDocsHomePage": false,
+              "title": "platemap.PlateUtils.transfer",
+              "description": "transfer",
+              "source": "@site/docs/reference/platemap/PlateUtils/transfer.md",
+              "slug": "/reference/platemap/PlateUtils/transfer",
+              "permalink": "/docs/reference/platemap/PlateUtils/transfer",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/reference/platemap/PlateUtils/transfer.md",
+              "version": "current",
+              "sidebar_label": "transfer",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "platemap.PlateUtils.remove_volume",
+                "permalink": "/docs/reference/platemap/PlateUtils/remove_volume"
+              },
+              "next": {
+                "title": "platemap.plate",
+                "permalink": "/docs/reference/platemap/plate"
+              }
+            },
+            {
+              "unversionedId": "style",
+              "id": "style",
+              "isDocsHomePage": false,
+              "title": "Style Guide",
+              "description": "You can write content using GitHub-flavored Markdown syntax.",
+              "source": "@site/docs/doc1.md",
+              "slug": "/style",
+              "permalink": "/docs/style",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/doc1.md",
+              "version": "current",
+              "sidebar_label": "Style Guide"
+            },
+            {
+              "unversionedId": "transfer_volume",
+              "id": "transfer_volume",
+              "isDocsHomePage": false,
+              "title": "Transfer Volume",
+              "description": "Transfering Volume maintain well proportions through liquid id's as below",
+              "source": "@site/docs/transfer_volume.md",
+              "slug": "/transfer_volume",
+              "permalink": "/docs/transfer_volume",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/transfer_volume.md",
+              "version": "current",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Add Volume",
+                "permalink": "/docs/add_volume"
+              },
+              "next": {
+                "title": "platemap.PlateUtils.add_volume",
+                "permalink": "/docs/reference/platemap/PlateUtils/add_volume"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogPosts": [
+        {
+          "id": "welcome",
+          "metadata": {
+            "permalink": "/blog/welcome",
+            "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/blog/2019-05-30-welcome.md",
+            "source": "@site/blog/2019-05-30-welcome.md",
+            "description": "Blog features are powered by the blog plugin. Simply add files to the blog directory. It supports tags as well!",
+            "date": "2019-05-30T00:00:00.000Z",
+            "tags": [
+              {
+                "label": "facebook",
+                "permalink": "/blog/tags/facebook"
+              },
+              {
+                "label": "hello",
+                "permalink": "/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "title": "Welcome",
+            "readingTime": 0.175,
+            "truncated": false,
+            "nextItem": {
+              "title": "Hello",
+              "permalink": "/blog/hello-world"
+            }
+          }
+        },
+        {
+          "id": "hello-world",
+          "metadata": {
+            "permalink": "/blog/hello-world",
+            "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/blog/2019-05-29-hello-world.md",
+            "source": "@site/blog/2019-05-29-hello-world.md",
+            "description": "Welcome to this blog. This blog is created with Docusaurus 2 alpha.",
+            "date": "2019-05-29T00:00:00.000Z",
+            "tags": [
+              {
+                "label": "hello",
+                "permalink": "/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "title": "Hello",
+            "readingTime": 0.12,
+            "truncated": true,
+            "prevItem": {
+              "title": "Welcome",
+              "permalink": "/blog/welcome"
+            },
+            "nextItem": {
+              "title": "Hola",
+              "permalink": "/blog/hola"
+            }
+          }
+        },
+        {
+          "id": "hola",
+          "metadata": {
+            "permalink": "/blog/hola",
+            "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/blog/2019-05-28-hola.md",
+            "source": "@site/blog/2019-05-28-hola.md",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
+            "date": "2019-05-28T00:00:00.000Z",
+            "tags": [
+              {
+                "label": "hola",
+                "permalink": "/blog/tags/hola"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "title": "Hola",
+            "readingTime": 0.12,
+            "truncated": false,
+            "prevItem": {
+              "title": "Hello",
+              "permalink": "/blog/hello-world"
+            }
+          }
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "metadata": {
+            "permalink": "/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 3,
+            "previousPage": null,
+            "nextPage": null,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          },
+          "items": [
+            "welcome",
+            "hello-world",
+            "hola"
+          ]
+        }
+      ],
+      "blogTags": {
+        "facebook": {
+          "name": "facebook",
+          "items": [
+            "welcome"
+          ],
+          "permalink": "/blog/tags/facebook"
+        },
+        "hello": {
+          "name": "hello",
+          "items": [
+            "welcome",
+            "hello-world"
+          ],
+          "permalink": "/blog/tags/hello"
+        },
+        "docusaurus": {
+          "name": "docusaurus",
+          "items": [
+            "welcome",
+            "hello-world",
+            "hola"
+          ],
+          "permalink": "/blog/tags/docusaurus"
+        },
+        "hola": {
+          "name": "hola",
+          "items": [
+            "hola"
+          ],
+          "permalink": "/blog/tags/hola"
+        }
+      },
+      "blogTagsListPath": "/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {
+    "default": null
+  },
+  "docusaurus-theme-classic": {
+    "default": null
+  }
+}

@@ -6,7 +6,7 @@ title: platemap.PlateUtils.remove_volume
 #### remove\_volume
 
 ```python
-remove_volume(target_plate: Plate, target_well: str, volume: int)
+def remove_volume(target_plate: Plate, target_well: str, volume: int)
 ```
 
 Remove volume from a well of a plate object

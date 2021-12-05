@@ -12,11 +12,11 @@
   "sidebar_label": "transfer",
   "sidebar": "someSidebar",
   "previous": {
-    "title": "platemap.PlateUtils.add_volume",
-    "permalink": "/docs/reference/platemap/PlateUtils/add_volume"
+    "title": "platemap.PlateUtils.remove_volume",
+    "permalink": "/docs/reference/platemap/PlateUtils/remove_volume"
   },
   "next": {
-    "title": "Contributing Guidelines",
-    "permalink": "/docs/contributing_guideline"
+    "title": "platemap.plate",
+    "permalink": "/docs/reference/platemap/plate"
   }
 }

@@ -58,6 +58,21 @@
               "sidebar": "someSidebar"
             },
             {
+              "id": "reference/platemap/PlateUtils/assign_source_wells",
+              "path": "/docs/reference/platemap/PlateUtils/assign_source_wells",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "reference/platemap/PlateUtils/find_next_well",
+              "path": "/docs/reference/platemap/PlateUtils/find_next_well",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "reference/platemap/PlateUtils/parse_echo_volume_survey",
+              "path": "/docs/reference/platemap/PlateUtils/parse_echo_volume_survey",
+              "sidebar": "someSidebar"
+            },
+            {
               "id": "reference/platemap/PlateUtils/remove_volume",
               "path": "/docs/reference/platemap/PlateUtils/remove_volume",
               "sidebar": "someSidebar"

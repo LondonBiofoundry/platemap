@@ -12,11 +12,11 @@
   "sidebar_label": "remove_volume",
   "sidebar": "someSidebar",
   "previous": {
-    "title": "platemap.plate",
-    "permalink": "/docs/reference/platemap/plate"
+    "title": "platemap.PlateUtils.parse_echo_volume_survey",
+    "permalink": "/docs/reference/platemap/PlateUtils/parse_echo_volume_survey"
   },
   "next": {
-    "title": "platemap.PlateUtils.add_volume",
-    "permalink": "/docs/reference/platemap/PlateUtils/add_volume"
+    "title": "platemap.PlateUtils.transfer",
+    "permalink": "/docs/reference/platemap/PlateUtils/transfer"
   }
 }

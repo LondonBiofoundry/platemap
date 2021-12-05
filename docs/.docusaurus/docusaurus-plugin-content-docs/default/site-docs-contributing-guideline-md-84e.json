@@ -1,0 +1,17 @@
+{
+  "unversionedId": "contributing_guideline",
+  "id": "contributing_guideline",
+  "isDocsHomePage": false,
+  "title": "Contributing Guidelines",
+  "description": "Set up Development Enviroment",
+  "source": "@site/docs/contributing_guideline.md",
+  "slug": "/contributing_guideline",
+  "permalink": "/docs/contributing_guideline",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/contributing_guideline.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "platemap.plate",
+    "permalink": "/docs/reference/platemap/plate"
+  }
+}

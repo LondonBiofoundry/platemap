@@ -53,22 +53,32 @@
             "collapsed": true,
             "items": [
               {
-                "type": "link",
-                "label": "plate",
-                "href": "/docs/reference/platemap/plate"
-              },
-              {
                 "collapsed": true,
                 "items": [
                   {
                     "type": "link",
-                    "label": "remove_volume",
-                    "href": "/docs/reference/platemap/PlateUtils/remove_volume"
+                    "label": "add_volume",
+                    "href": "/docs/reference/platemap/PlateUtils/add_volume"
                   },
                   {
                     "type": "link",
-                    "label": "add_volume",
-                    "href": "/docs/reference/platemap/PlateUtils/add_volume"
+                    "label": "assign_source_wells",
+                    "href": "/docs/reference/platemap/PlateUtils/assign_source_wells"
+                  },
+                  {
+                    "type": "link",
+                    "label": "find_next_well",
+                    "href": "/docs/reference/platemap/PlateUtils/find_next_well"
+                  },
+                  {
+                    "type": "link",
+                    "label": "parse_echo_volume_survey",
+                    "href": "/docs/reference/platemap/PlateUtils/parse_echo_volume_survey"
+                  },
+                  {
+                    "type": "link",
+                    "label": "remove_volume",
+                    "href": "/docs/reference/platemap/PlateUtils/remove_volume"
                   },
                   {
                     "type": "link",
@@ -78,6 +88,11 @@
                 ],
                 "label": "platemap.PlateUtils",
                 "type": "category"
+              },
+              {
+                "type": "link",
+                "label": "plate",
+                "href": "/docs/reference/platemap/plate"
               }
             ],
             "label": "platemap",
@@ -107,6 +122,9 @@
     "/docs/plate_attributes": "someSidebar",
     "/docs/reference/platemap/plate": "someSidebar",
     "/docs/reference/platemap/PlateUtils/add_volume": "someSidebar",
+    "/docs/reference/platemap/PlateUtils/assign_source_wells": "someSidebar",
+    "/docs/reference/platemap/PlateUtils/find_next_well": "someSidebar",
+    "/docs/reference/platemap/PlateUtils/parse_echo_volume_survey": "someSidebar",
     "/docs/reference/platemap/PlateUtils/remove_volume": "someSidebar",
     "/docs/reference/platemap/PlateUtils/transfer": "someSidebar",
     "/docs/transfer_volume": "someSidebar"

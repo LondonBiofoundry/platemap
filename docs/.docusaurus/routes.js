@@ -44,52 +44,52 @@ export default [
 },
 {
   path: '/blog',
-  component: ComponentCreator('/blog','e84'),
+  component: ComponentCreator('/blog','e8b'),
   exact: true,
 },
 {
   path: '/blog/hello-world',
-  component: ComponentCreator('/blog/hello-world','4b5'),
+  component: ComponentCreator('/blog/hello-world','a0f'),
   exact: true,
 },
 {
   path: '/blog/hola',
-  component: ComponentCreator('/blog/hola','1be'),
+  component: ComponentCreator('/blog/hola','bff'),
   exact: true,
 },
 {
   path: '/blog/tags',
-  component: ComponentCreator('/blog/tags','6dc'),
+  component: ComponentCreator('/blog/tags','dfe'),
   exact: true,
 },
 {
   path: '/blog/tags/docusaurus',
-  component: ComponentCreator('/blog/tags/docusaurus','8f0'),
+  component: ComponentCreator('/blog/tags/docusaurus','891'),
   exact: true,
 },
 {
   path: '/blog/tags/facebook',
-  component: ComponentCreator('/blog/tags/facebook','316'),
+  component: ComponentCreator('/blog/tags/facebook','3ef'),
   exact: true,
 },
 {
   path: '/blog/tags/hello',
-  component: ComponentCreator('/blog/tags/hello','3c5'),
+  component: ComponentCreator('/blog/tags/hello','f42'),
   exact: true,
 },
 {
   path: '/blog/tags/hola',
-  component: ComponentCreator('/blog/tags/hola','81e'),
+  component: ComponentCreator('/blog/tags/hola','b70'),
   exact: true,
 },
 {
   path: '/blog/welcome',
-  component: ComponentCreator('/blog/welcome','b3b'),
+  component: ComponentCreator('/blog/welcome','b3a'),
   exact: true,
 },
 {
   path: '/docs',
-  component: ComponentCreator('/docs','58f'),
+  component: ComponentCreator('/docs','4ab'),
   
   routes: [
 {
@@ -140,6 +140,21 @@ export default [
 {
   path: '/docs/reference/platemap/PlateUtils/add_volume',
   component: ComponentCreator('/docs/reference/platemap/PlateUtils/add_volume','26e'),
+  exact: true,
+},
+{
+  path: '/docs/reference/platemap/PlateUtils/assign_source_wells',
+  component: ComponentCreator('/docs/reference/platemap/PlateUtils/assign_source_wells','343'),
+  exact: true,
+},
+{
+  path: '/docs/reference/platemap/PlateUtils/find_next_well',
+  component: ComponentCreator('/docs/reference/platemap/PlateUtils/find_next_well','58e'),
+  exact: true,
+},
+{
+  path: '/docs/reference/platemap/PlateUtils/parse_echo_volume_survey',
+  component: ComponentCreator('/docs/reference/platemap/PlateUtils/parse_echo_volume_survey','a16'),
   exact: true,
 },
 {

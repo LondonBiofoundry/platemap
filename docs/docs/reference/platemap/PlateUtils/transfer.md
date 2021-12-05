@@ -6,7 +6,7 @@ title: platemap.PlateUtils.transfer
 #### transfer
 
 ```python
-transfer(source_plate: Plate, source_well: str, destination_plate: Plate, destination_well: str, volume: int)
+def transfer(source_plate: Plate, source_well: str, destination_plate: Plate, destination_well: str, volume: int)
 ```
 
 Transfer volume from one well within a plate object to another well within a plate object

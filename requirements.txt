@@ -3,3 +3,5 @@ pytest-cov
 coveralls
 typing_extensions
 xmltodict
+pydoc-markdown
+mkdocs

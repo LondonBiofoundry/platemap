@@ -25,7 +25,7 @@ Generate a structure to handle plates and contents of wells
 #### \_\_init\_\_
 
 ```python
- | __init__(size: int, id: str = uuid.uuid4(), deadspace: int = None, rows: int = None, columns: int = None, well_volume: int = None)
+def __init__(size: int, id: str = uuid.uuid4(), deadspace: int = None, rows: int = None, columns: int = None, well_volume: int = None)
 ```
 
 Initiation object of Plate objects.
@@ -51,7 +51,7 @@ is of regular 2:3 ratio one of [6, 24, 96, 384, 1536]
 #### \_\_getitem\_\_
 
 ```python
- | __getitem__(k)
+def __getitem__(k)
 ```
 
 Return e.g. well A1&#x27;s dict when calling myplate[&quot;A1&quot;].
@@ -59,7 +59,7 @@ Return e.g. well A1&#x27;s dict when calling myplate[&quot;A1&quot;].
 #### set\_well\_id
 
 ```python
- | set_well_id(well: str, id: str)
+def set_well_id(well: str, id: str)
 ```
 
 Set id of individual wells
@@ -67,7 +67,7 @@ Set id of individual wells
 #### set\_well\_volume
 
 ```python
- | set_well_volume(well: str, volume: int)
+def set_well_volume(well: str, volume: int)
 ```
 
 Set volume of individual wells
@@ -75,7 +75,7 @@ Set volume of individual wells
 #### update\_well\_composition
 
 ```python
- | update_well_composition(well: str, volume: int, volume_id: str, volume_concentration: int = None)
+def update_well_composition(well: str, volume: int, volume_id: str, volume_concentration: int = None)
 ```
 
 Update composition of individual wells
