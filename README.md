@@ -12,6 +12,10 @@ A small and simple class to handle microplate's / micro titreplate's within pyth
 
 Documentation, Usage and Contributing Guidlines are hosted at [platemap](https://platemap.vercel.app)
 
+# Generate Documentation
+
+run `pydoc-markdown` in the root folder
+
 ## Installation
 
 To install platemap from pypi
@@ -35,4 +39,5 @@ python setup.py install
 ```
 
 ## Description
+
 Created at the London Biofoundry by [Benedict Carling](https://github.com/Benedict-Carling) and released under the MIT licence (Copyright 2021 London Biofoundry)
